@@ -2,6 +2,7 @@
 Himalayan data reference paper: https://link.springer.com/article/10.1007/s00024-014-0807-x
 
 Guide to prepare data for the scoring algorithm
+
 Has the following data:
   a. date
   b. event latitude
