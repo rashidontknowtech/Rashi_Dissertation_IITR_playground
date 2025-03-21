@@ -1,0 +1,156 @@
+%load data
+load('data.mat')
+
+%Assign data to covariates in the ground-motion prediction function given by Akkar and Bommer (2010).
+x=[data.Mw,data.JB_dist,data.Ss,data.Sa,data.Fn,data.Fr];
+
+%Assign data to covariates (lat and lon) required in the correlation function
+w=[data.st_latitude,data.st_longitude];
+
+%Set earthquake ID
+id=data.event_id;
+%Choose correlation function type ('No','Exp' or 'Matern1.5' or 'SExp')
+cf='Exp';
+
+%Assign parameter values given by Akkar and Bommer (2010)
+%para(1:10) correspond to b, para(11) and para(12) correspond to tau and sigma, respectively
+load('Akkar2010.mat')
+para=Akkar2010; 
+%linear coefficients
+beta=[para(1:5),para(7:10)]'; 
+%nonlinear coefficients. gamma should be specified as a column vector when there are more than one nonlinear coefficients
+gamma=para(6); 
+%Assign a value to the range parameter h in the exponential correlation function
+h=11.5; 
+theta=[para(11)^2;para(12)^2;h];
+
+%Generate one set of log(IM) (i.e., log(PGA))
+n=1;
+y=generator(x,w,id,beta,gamma,theta,@design,n,cf);
+%Set the initial value for the nonlinear coefficients (b_6 in this example)
+%(gamma0 should be specified as a column vector when there are more than one nonlinear coefficients)
+gamma0=para(6)-1;
+
+%Set initial values for the inter- and intraevent variances and the range parameter h
+theta0=[para(11)^2-0.001,para(12)^2-0.01,h-2]';
+
+%In this example, we perturb the parameter values used to generate synthetic data as the initial values for the estimation
+
+%Set the tolerance level for the optimization algorithm
+tol=0.0001;
+
+%Set the confidence level (95% in this example) to be used to construct confidence intervals for the parameter estimators
+cl=95;
+
+%Set a binary vector that indicates which nonlinear coefficients have positivity constraints
+%(although b_6 should be positive, it is in quadratic form and thus does not need to be constrained to be positive during the optimisation)
+gamma_cstr=[0];
+
+%Begin the estimation
+output_syn=scoring(y,x,w,id,@design,@Bg,gamma0,theta0,tol,cl,cf,gamma_cstr);
+%load data
+load('data.mat')
+
+%Assign data to covariates in the ground-motion prediction function given by Akkar and Bommer (2010).
+x=[data.Mw,data.JB_dist,data.Ss,data.Sa,data.Fn,data.Fr];
+
+%Assign data to covariates (lat and lon) required in the correlation function
+w=[data.st_latitude,data.st_longitude];
+
+%Set earthquake ID
+id=data.event_id;
+
+%Log transform the PGAs and assign them to the dependent variable
+y=log10(data.rotD50_pga);
+
+%Choose correlation function type ('No','Exp' or 'Matern1.5' or 'SExp')
+cf='No';
+
+%Assign parameter values given by Akkar and Bommer (2010)
+%para(1:10) correspond to b, para(11) and para(12) correspond to tau and sigma, respectively
+load('Akkar2010.mat')
+para=Akkar2010; 
+
+%Set the initial value for the nonlinear coefficients (b_6 in this example) as given by Akkar and Bommer (2010)
+gamma0=para(6);
+
+%Set initial values for the inter- and intraevent variances as given by Akkar and Bommer (2010)
+theta0=[para(11)^2,para(12)^2]';
+
+%Set the tolerance level for the optimization algorithm
+tol=0.0001;
+
+%Set the confidence level (95% in this example) to be used to construct confidence intervals for the parameter estimators
+cl=95;
+
+%Set a binary vector that indicates which nonlinear coefficients have positivity constraints
+%(although b_6 should be positive, it is in quadratic form and thus does not need to be constrained to be positive during the optimisation)
+gamma_cstr=[0];
+
+%Begin the estimation
+output_ini=scoring(y,x,w,id,@design,@Bg,gamma0,theta0,tol,cl,cf,gamma_cstr);
+
+%Set an initial value for the range parameter h
+h0=40;
+
+%Set the binwidth for the empirical semivariogram
+deltah=0.5;
+
+%Plot empirical semivariogram with the fitted exponential semivariograms
+[varcomponents_exp,semivar]=semivag(y,x,w,id,output_ini,@design,h0,deltah,'Exp');
+%Set initial value for the nonlinear coefficient b_6 as the one estimated from Step 1 
+gamma0=output_ini.ParameterEstimates.gamma;
+
+%Set initial value for the interevent variance tau^2 as the one estimated from Step 1
+tau20=output_ini.ParameterEstimates.theta(1);
+
+%Set initial values for the intraevent variance sigma^2 and the range parameter h as the ones estimated from Step 2
+sigma20_exp=varcomponents_exp(1);
+h0_exp=varcomponents_exp(2);
+
+%Combine initial values
+gamma0_exp=gamma0;
+theta0_exp=[tau20;sigma20_exp;h0_exp];
+
+%Begin estimation
+output_real=scoring(y,x,w,id,@design,@Bg,gamma0_exp,theta0_exp,tol,cl,'Exp',gamma_cstr);
+
+%Define the event under consideration
+eventid='IT-1997-0137';
+
+%Extract information of the event from the ground-motion database
+[y_event,x_event,w_event]=eventfinder(eventid,id,y,x,w);
+
+%load information at grid points (i.e., prediction locations)
+load('grid_data.mat')
+
+%Assign data to covariates in the ground-motion prediction function given by Akkar and Bommer (2010).
+u_event=[grid_data.Mw,grid_data.JB_dist,grid_data.Ss,grid_data.Sa,grid_data.Fn,grid_data.Fr];
+
+%Assign data to covariates (lat and lon) required in the correlation function
+v_event=[grid_data.st_latitude,grid_data.st_longitude];
+
+%Make predictions on grid points
+[z_hat_exp,v_hat_exp]=prediction(y_event,x_event,u_event,w_event,v_event,output_real,@design,'Exp','off');
+
+%load event map info
+load('Italyborder.mat')
+
+%Define the region of the shakemap
+latRange=[40.68,45.18];
+lonRang=[10.68,15.18];
+
+%Draw the shake map without the log-scaled color (0) bar
+lim=[min(z_hat_exp),max(z_hat_exp)];
+f=shakemap(latRange,lonRang,Italyborder,w_event,v_event,z_hat_exp,0,lim);
+title('Shake map of M_W 5.6','fontsize',10);
+hcb=colorbar;
+title(hcb,'log_{10}(PGA)','fontsize',6);
+%Make predictions on grid points and set the base to '10'
+[z_hat_exp_delog,v_hat_exp_delog]=prediction(y_event,x_event,u_event,w_event,v_event,output_real,@design,'Exp','10');
+%Draw the shakemap with log-scaled (1) color bar
+lim=[min(z_hat_exp_delog),max(z_hat_exp_delog)];
+f=shakemap(latRange,lonRang,Italyborder,w_event,v_event,z_hat_exp_delog,1,lim);
+title('Shake map of M_W 5.6','fontsize',10);
+hcb=colorbar;
+title(hcb,'PGA (cm/s^2)','fontsize',6);
