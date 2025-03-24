@@ -26,6 +26,7 @@ To remove:
 2. Prepare himalayanborder.mat for shakemap generation
 3. Prepare Himalayan version of Akkar.mat to find values of τ² and σ² (for prediction) [in the reference paper, it is chosen theoretically]
 4. Find generator settings for Himalayan GMPE
+5. Ask sir for station recordings with PGA values during Himalayan eq.
 
 **Task 3:**__
 1. tweak design.m code
