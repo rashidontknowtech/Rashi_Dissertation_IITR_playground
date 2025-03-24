@@ -1,0 +1,15 @@
+Finding values of b1, b2, b3, b4, b5, b6, b7, b8, b9, b10
+done using design.m
+
+
+Estimation of τ² (Inter-event Variability) and σ² (Intra-event Variability)
+- scoring.m estimates τ² (Inter-event Variability) and σ² (Intra-event Variability)
+- generator.m uses it for generating synthtic data
+- prediction.m uses it for quantifying uncertainities in ground-motion predictions
+
+
+Calculating h (range parameter of correlation functions)
+- semivariogram.m → Computes the semivariogram and fits h.
+- scoring.m → Estimates h using Maximum Likelihood Estimation.
+- generator.m → Uses h to generate correlated random fields.
+- prediction.m → Uses h for spatial interpolation of ground motion.
