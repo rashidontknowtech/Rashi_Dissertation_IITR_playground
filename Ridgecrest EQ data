@@ -1,0 +1,891 @@
+                 Peak Ground Motion Data (Distance Order) for
+         Ridgecrest Earthquake of 05 Jul 2019, 20:19:53 PDT, 7.1MW
+                35.7695N 117.5993W, 8.0 km depth  Event Id: 38457511CI
+                   CESMD Engineering Strong Motion Data Center
+                   Table Last Updated: 2024-08-06 13:37:47
+Network  Statn                                                         Distance   PGAv1 PGAv2   PGV   PGD   ---- Sa (g) ----- Struct
+Id Name  Nmbr  Station Name                            N.Lat  W.Long  Epic Fault   (g)   (g)  (cm/s)  (cm)  .3sec  1sec  3sec Apk(g)
+
+CI SCSN  CLC   China Lake                              35.816 117.598   5.1(3.5)  .511  .484  42.35  22.7   .979  .199  .105   - -
+NP NSMP  5419  China Lake; Naval Weapons Center        35.649 117.662  14.5(13.0)  .363  .365  44.45  16.6   .877  .830  .235   - -
+CI SCSN  TOW2  Tower 2                                 35.809 117.765  15.6(8.6)  .437  .399  51.36   6.0   .907  .450  .072   - -
+CI SCSN  SRT   Snort                                   35.692 117.751  16.1(16.0)  .314  .309  42.13  29.3   .688  .277  .224   - -
+CI SCSN  Q0072 Lakeland Street, Ridgecrest Ca          35.610 117.667  18.8(16.2)  .304  .304  29.26  11.4   .688  .446  .084   - -
+CE CGS   33742 Ridgecrest - Hwy 395/Brown Road Bridge  35.670 117.819  22.7(22.3)  .243  .240  24.45  18.6   .526  .241  .074   .604
+CI SCSN  LRL   Laurel Mtn Radio Fac                    35.480 117.682  33.0(26.6)  .195  .201  12.11   7.6   .421  .112  .030   - -
+CI SCSN  MPM   Manuel Prospect Mine                    36.058 117.489  33.5(28.3)  .090  .089  11.95   8.8   .154  .092  .026   - -
+CI SCSN  CCC   Christmas Canyon China Lake             35.525 117.365  34.5(2.8)  .567  .476  77.67  26.3   .960  .680  .192   - -
+CI SCSN  WMF   Mccloud Flat                            36.118 117.855  45.0(15.6)  .060  .059   7.61   6.6   .141  .041  .020   - -
+CI SCSN  WBS   Bird Spring                             35.537 118.140  55.4(54.0)  .165  .161   9.53   4.2   .339  .052  .012   - -
+CI SCSN  DAW   Darwin                                  36.271 117.592  55.7(38.3)  .058  .052   3.02   1.8   .077  .018  .009   - -
+CI SCSN  WOR   Onyx Ranch                              35.696 118.242  58.8(49.3)  .092  .092   4.35   2.9   .109  .051  .011   - -
+CI SCSN  DTP   Desert Tortoise Park                    35.267 117.846  60.0(53.2)  .034  .031   5.79   4.6   .045  .024  .018   - -
+CE CGS   43158 Olancha - North Haiwee Reservoir Grounds36.228 117.970  60.9(30.7)  .064  .064  11.51   8.9   .111  .061  .046   - -
+CI SCSN  WHF   Hanning Flat                            35.695 118.352  68.6(57.3)  .104  .104   5.59   2.7   .341  .030  .011   - -
+CI SCSN  CCA   California City Airport                 35.153 118.016  78.2(73.3)  .043  .042   4.23   4.7   .128  .044  .011   - -
+CI SCSN  ISA   Isabella                                35.663 118.474  80.0(68.6)  .032  .031   2.24   2.1   .100  .016  .006   - -
+CI SCSN  Q0068 Redwood Blvd, California City Ca        35.112 117.977  80.6(73.5)  .051  .051   4.26   4.2   .133  .067  .014   - -
+NP NSMP  1035  Lake Isabella Dam                       35.646 118.480  80.9(70.0)  .098  .097   7.03   1.6   .000  .000  .000   .115
+CI SCSN  APL   Apollo                                  35.341 116.875  81.1(50.6)  .061  .058   4.45   3.9   .107  .037  .015   - -
+CE CGS   34349 Lake Isabella - Kern River Valley  [Aban35.616 118.478  81.4(71.7)  .027  .027    .91    .1   .025  .008  .001   - -
+CE CGS   33083 Boron - Fire Station                    35.003 117.651  85.1(65.8)  .065  .065   5.36   2.8   .267  .103  .015   - -
+CI SCSN  CWC   Cottonwood Creek                        36.440 118.080  86.1(56.1)  .020  .017   2.25   2.7   .030  .007  .006   - -
+CI SCSN  WAS2  Alta Sierra 2                           35.738 118.557  86.7(71.6)  .051  .051   2.42   1.6   .115  .018  .007   - -
+CI SCSN  HAR   Harper Dry Lake Bed                     35.011 117.299  88.4(60.1)  .087  .087  12.43   4.7   .132  .203  .017   - -
+CI SCSN  CGO   Cerro Gordo                             36.550 117.803  88.6(63.3)  .030  .030   3.67   2.4   .102  .034  .010   - -
+CI SCSN  GSC   Goldstone                               35.302 116.806  88.7(58.2)  .041  .040   5.30   4.3   .094  .077  .015   - -
+CI SCSN  TEH   Cattani Ranch                           35.291 118.421  91.5(91.0)  .042  .041   3.47   2.6   .114  .022  .011   - -
+CI SCSN  LMR2  Leuhmann Ridge Extension                34.934 117.696  93.1(74.5)  .031  .029   2.85   2.2   .074  .031  .008   - -
+CE CGS   34093 Mojave - Hwys 14 & 58                   35.070 118.176  93.7(90.2)  .047  .047   6.44   3.9   .127  .110  .013   - -
+CI SCSN  HYS   Haystack Butte                          34.865 117.570 100.3(78.1)  .040  .039   3.13   2.3   .111  .034  .008   - -
+CE CGS   32207 Fort Irwin - North Loop & Barstow Rd    35.271 116.674 100.5(70.4)  .069  .068   6.06   2.8   .170  .075  .010   - -
+CE CGS   44015 Lone Pine A                             36.601 118.061 101.1(72.2)  .025  .024   6.72   4.3   .065  .057  .028   - -
+CI SCSN  FUR   Furnace Creek                           36.467 116.863 101.9(100.6)  .053  .052   6.80   5.4   .123  .075  .019   - -
+CI SCSN  EDW2  Edwards Air Force Base 2                34.881 117.994 104.9(93.4)  .045  .044   2.95   2.7   .054  .023  .008   - -
+CI SCSN  LDR   Mojave, Tehatchapi - Willow Springs Rd. 34.991 118.342 109.6(107.4)  .031  .031   3.53   3.7   .105  .029  .011   - -
+CE CGS   34189 Tehachapi - Bear Valley Police Bldg     35.147 118.576 112.4(112.1)  .040  .039   3.38   3.7   .124  .019  .012   .087
+CI SCSN  RRX   Barstow, Main St.                       34.875 116.997 113.3(82.2)  .059  .059  12.78   4.8   .097  .143  .035   - -
+CI SCSN  TPO   Toro Peak, Riverside Co., Ca, Usa       34.879 118.229 114.2(107.9)  .039  .038   5.26   4.4   .069  .058  .019   - -
+CI SCSN  TEJ   El Tejon                                35.231 118.689 115.5(113.8)  .019  .018   2.86   3.1   .048  .027  .006   - -
+CI SCSN  SPG2  Springville 2                           36.201 118.766 115.6(88.6)  .016  .017   2.27   2.1   .021  .010  .004   - -
+CE CGS   23957 Helendale - Helendale & Vista           34.744 117.335 116.3(89.5)  .066  .066   5.79   3.5   .180  .067  .011   - -
+CI SCSN  AVM   Alvord Mountain                         35.066 116.615 118.7(87.2)  .034  .034   4.80   3.0   .104  .051  .014   - -
+CE CGS   22074 Yermo - Fire Station                    34.904 116.824 119.1(87.2)  .062  .062  12.50   6.5   .127  .169  .035   - -
+CI SCSN  SHO   Shoshone                                35.900 116.275 120.5(106.4)  .118  .115   7.55   3.5   .289  .088  .013   - -
+CI SCSN  FDR   5 Dogs Range                            35.643 118.934 121.6(107.1)  .038  .037   4.54   2.5   .095  .059  .014   - -
+CI SCSN  SBB2  Saddle Butte State Park                 34.688 117.824 121.7(104.1)  .023  .023   2.19   2.1   .035  .016  .008   - -
+CE CGS   32076 Death Valley - Shoshone                 35.971 116.271 122.0(109.8)  .116  .116  13.27   3.8   .308  .104  .016   - -
+CE CGS   22519 Newberry Springs - I15 & Kathy          34.961 116.670 123.2(91.2)  .092  .092   7.61   3.9   .279  .091  .016   - -
+NP NSMP  1484  Lake Success Dam                        36.062 118.923 123.8(99.7)  .029  .029   2.30   1.2   .000  .000  .000   .104
+CI SCSN  PUT   Piute                                   34.691 117.969 124.3(109.8)  .052  .051   5.13   3.0   .125  .046  .021   - -
+CE CGS   34482 Bakersfield - Hwy 58 & Edison Rd        35.347 118.873 124.6(117.9)  .018  .018  10.82   9.0   .036  .045  .029   - -
+CE CGS   24062 Lancaster - Lancaster & 30th St East    34.699 118.077 126.5(114.3)  .059  .059   9.74   5.3   .147  .072  .047   - -
+CE CGS   44298 Independence - 1-story Office Bldg      36.801 118.201 126.5(97.3)  .007  .007   3.12   3.1   .017  .015  .015   .016
+CE CGS   24474 Lancaster - Airport Control Tower       34.739 118.215 127.3(118.3)  .069  .069   6.97   3.9   .258  .116  .019   .247
+CE CGS   24293 Lancaster - Fox Airfield Grounds A      34.738 118.218 127.5(118.6)  .070  .070   6.39   3.9   .279  .107  .018   - -
+CI SCSN  MAG   Sce Magundon Plant                      35.362 118.923 128.2(120.7)  .019  .019   9.22   7.9   .037  .035  .025   - -
+CI SCSN  FOX2  Fox Airport 2                           34.734 118.240 128.9(120.3)  .041  .040   6.66   3.5   .111  .089  .021   - -
+CE CGS   24609 Lancaster - 5-story Hospital            34.688 118.159 130.3(119.6)  .069  .069   7.11   4.5   .265  .069  .039   .241
+CE CGS   24517 Lancaster - 3-story Office Bldg.        34.687 118.158 130.4(119.6)  .078  .078   7.83   4.4   .268  .071  .039   .333
+CE CGS   24661 Lancaster - 15th & W Avenue J           34.687 118.160 130.5(119.7)  .062  .063   6.60   3.8   .208  .070  .038   - -
+CE CGS   34235 Bakersfield - Kern County Hospital Grnds35.382 118.968 131.3(122.9)  .016  .015   6.99   6.4   .034  .036  .021   - -
+CE CGS   34234 Bakersfield - Kern County Hospital      35.382 118.970 131.5(123.0)  .017  .017   6.51   6.0   .046  .043  .022   .041
+CI SCSN  Q0061 180th Street East Palmdale              34.592 117.813 132.1(113.7)  .023  .023   2.21   1.9   .048  .023  .009   - -
+CI SCSN  WLS2  Wilsona 2                               34.579 117.719 132.5(112.3)  .064  .064   3.76   2.0   .147  .051  .009   - -
+CI SCSN  ARV   Arvin                                   35.127 118.830 132.6(131.1)  .012  .012   4.83   4.5   .024  .031  .017   - -
+CI SCSN  TJR   Tejon Ranch                             35.027 118.744 132.6(132.4)  .021  .021   3.26   3.2   .045  .052  .012   - -
+CI SCSN  VES   Vestal                                  35.841 119.085 134.5(115.0)  .026  .026   6.70   3.4   .060  .043  .027   - -
+CI SCSN  SHU   Shuttle                                 34.643 118.165 135.2(123.9)  .054  .050   3.79   3.0   .076  .051  .008   - -
+CE CGS   22506 Newberry Springs - I40 & Newberry Rd    34.814 116.663 135.9(104.0)  .048  .048   5.66   3.9   .087  .112  .016   - -
+CE CGS   35491 Bakersfield - 22nd & H                  35.379 119.022 136.0(127.1)  .024  .023   5.69   5.2   .052  .040  .020   - -
+CI SCSN  THC   Tehachapi Microwave                     34.909 118.664 136.0(135.6)  .009  .009   2.79   3.9   .021  .023  .013   - -
+CI SCSN  ALP   Antelope                                34.687 118.299 136.0(127.8)  .025  .025   5.50   3.1   .055  .044  .018   - -
+CI SCSN  ADO   Adelanto, on Hwy 395                    34.550 117.434 136.1(111.0)  .076  .076   6.69   2.2   .271  .119  .023   - -
+CI SCSN  VTV   Victorville, Airbase Rd.                34.561 117.330 136.3(109.8)  .059  .057   4.37   2.8   .093  .029  .007   - -
+CE CGS   35483 Bakersfield - Airport                   35.429 119.056 137.3(127.0)  .021  .020   7.03   6.5   .055  .044  .024   - -
+CI SCSN  NEN   Neenach                                 34.775 118.501 137.5(134.0)  .031  .031   7.34   4.7   .094  .079  .023   - -
+CE CGS   43080 Death Valley - Grapevine                36.996 117.366 137.7(119.9)  .016  .016   3.91   3.1   .047  .031  .011   - -
+CI SCSN  GRA   Grapevine Ranger Station                36.996 117.366 137.7(119.9)  .014  .014   3.89   3.0   .043  .031  .011   - -
+CE CGS   24965 Palmdale - 55th St East & Ave R         34.570 118.030 138.7(124.2)  .048  .048   3.03   2.2   .080  .037  .007   - -
+CE CGS   35479 Bakersfield - Akers & Ming              35.338 119.047 139.7(131.5)  .021  .021   8.39   6.6   .042  .032  .027   - -
+CE CGS   24967 Palmdale - 30th St West & Ave P         34.603 118.182 139.8(128.4)  .055  .055   3.71   2.7   .115  .023  .008   - -
+CE CGS   35365 Bakersfield - Stockdale & California    35.355 119.056 139.8(131.2)  .024  .022   3.48    .9   .055  .058  .009   - -
+CE CGS   24270 Fairmont Reservoir - Fairmont Dam R.Abut34.705 118.427 140.1(134.4)  .013  .013   3.61   3.9   .026  .013  .009   - -
+NP NSMP  5480  CA:Elizabeth Lake Tunnel N; Freefield   34.703 118.426 140.2(134.4)  .021  .020   3.74   3.1   .055  .014  .009   - -
+CE CGS   24458 Palmdale - W Palmdale & Med. Centr Dr   34.584 118.146 140.6(128.4)  .039  .039   4.24   2.9   .109  .049  .013   - -
+CE CGS   24457 Palmdale - 5-story Hospital             34.584 118.145 140.6(128.4)  .038  .038   4.09   2.9   .098  .056  .013   .143
+CE CGS   24545 Palmdale - Hwy 14 North Geotech Array   34.577 118.133 141.0(128.4)  .043  .042   4.29   2.9   .146  .031  .015   - -
+CI SCSN  LEO   Leona Valley                            34.631 118.305 141.8(132.9)  .038  .037   4.30   3.2   .100  .024  .013   - -
+CE CGS   35480 Bakersfield - Stine & Panama            35.292 119.057 142.4(135.1)  .027  .027   8.56   7.0   .069  .063  .032   - -
+CE CGS   23119 Apple Valley - Hwy 18 & Standing Rock Av34.522 117.214 142.7(114.9)  .053  .052   4.41   2.7   .170  .039  .008   - -
+CI SCSN  Q0013 East Avenue T4, Palmdale                34.540 118.060 142.8(128.5)  .037  .036   3.22   2.4   .115  .032  .010   - -
+CE CGS   24306 Leona Valley #2                         34.595 118.244 142.9(132.5)  .046  .046   3.47   2.9   .129  .042  .013   - -
+NP NSMP  5030  Littlerock; Post Office                 34.521 117.991 143.0(127.4)  .041  .040   4.19   2.1   .115  .057  .008   - -
+CI SCSN  LRR2  Little Rock Reservoir 2                 34.527 118.030 143.3(128.4)  .027  .026   2.82   2.2   .081  .026  .010   - -
+WR CDWR  PAST  Pastoria Siphon - North                 34.906 118.782 144.0(143.9)  .022  .022   1.43   1.1   .015  .005  .004   - -
+CE CGS   24206 Palmdale - Hwy 14 Bridge Geotech Array  34.547 118.130 144.0(131.0)  .025  .025   3.14   2.5   .065  .033  .011   - -
+CE CGS   24706 Palmdale - Hwy 14/Barrel Springs Bridge 34.546 118.130 144.1(131.1)   - -   - -      -      -    - -   - -   - -   .076
+CI SCSN  BAK   Calstate Bakersfield                    35.344 119.104 144.4(135.5)  .025  .026   6.63   5.4   .045  .055  .024   - -
+CI SCSN  NBS   Newberry Springs                        34.780 116.558 145.0(113.0)  .032  .032   4.39   3.3   .092  .051  .011   - -
+NP NSMP  1098  Terminus Dam                            36.410 119.005 145.2(116.8)  .025  .025   1.66   1.1   .000  .000  .000   .103
+CI SCSN  HDH   High Desert Hunt Club - Tejon Ranch     34.775 118.640 145.4(143.6)  .019  .019   5.49   4.2   .052  .039  .020   - -
+CI SCSN  CJV2  Casa Juvan 2                            34.530 118.144 146.2(133.4)  .028  .027   3.03   2.8   .075  .037  .011   - -
+BK BDSN  LIND  Lindcove Research and Extension Center, 36.353 119.057 146.4(118.7)  .014  .014   1.47   1.4   .016  .011  .002   - -
+CI SCSN  HOL   Holcomb Ridge                           34.458 117.845 147.2(128.6)  .027  .027   3.15   2.3   .061  .029  .010   - -
+CE CGS   23958 Pinon Hills - Hwy 138 & Mountain Rd     34.439 117.647 147.6(125.8)  .041  .040   3.40   2.1   .108  .043  .012   - -
+CE CGS   23292 Phelan - Centola & Phelan Rds           34.426 117.544 149.2(125.7)  .031  .031   4.73   2.4   .098  .053  .017   - -
+CE CGS   24505 Wheeler Ridge - I5 & Laval Rd           34.995 118.949 149.8(148.9)  .014  .014   4.62   4.8   .041  .035  .016   - -
+CE CGS   32075 Baker - Fire Station                    35.274 116.063 149.8(122.6)  .035  .035   6.70   3.6   .097  .050  .021   - -
+CI SCSN  JNH2  Juniper Hills 2                         34.449 117.955 150.1(133.3)  .023  .023   2.23   2.0   .058  .031  .005   - -
+CI SCSN  VCS   Vincent Substation                      34.484 118.118 150.3(136.5)  .039  .039   2.93   2.1   .121  .025  .007   - -
+CE CGS   24M06 Bouquet Canyon Reservoir Dam No.1       34.577 118.385 150.4(142.1)  .026  .026   2.79   3.2   .053  .025  .007   .114
+NP NSMP  5481  CA:Elizabeth Lake Tunnel S; Ground      34.599 118.454 151.4(144.4)  .038  .038   3.83   2.7   .135  .021  .008   - -
+CI SCSN  Q0024 Lancaster Rd, Gorman                    34.768 118.737 151.9(150.8)  .018  .018   4.26   4.0   .038  .035  .020   - -
+CE CGS   24117 Agua Dulce - Sierra Hwy & Anthony Rd    34.519 118.286 152.2(141.6)  .021  .020   2.87   2.5   .066  .019  .008   - -
+CI SCSN  DSC   Desert Studies Center                   35.143 116.104 152.5(123.7)  .017  .017   3.07   2.4   .032  .020  .010   - -
+CE CGS   54361 Big Pine - Tinemaha Dam                 37.052 118.222 152.9(124.3)   - -   - -      -      -    - -   - -   - -   .015
+CI SCSN  RMM   Rodman Mountain                         34.644 116.624 153.2(121.4)  .089  .086   6.75   3.5   .372  .059  .009   - -
+CI SCSN  BAI   Bailey                                  34.777 118.773 153.4(152.7)  .008  .008   3.11   3.5   .018  .019  .010   - -
+CI SCSN  TIN   Tinemaha                                37.054 118.230 153.4(124.7)  .010  .010   3.14   2.2   .019  .022  .018   - -
+CE CGS   23583 Hesperia - 4th & Palm                   34.405 117.313 153.6(127.1)  .034  .034   4.35   2.8   .081  .043  .019   - -
+CI SCSN  CVW   Castaic Valley West                     34.922 118.939 153.9(153.5)  .026  .026   5.41   4.4   .046  .058  .018   - -
+CE CGS   24775 Grapevine - I5/Lebec Rd Bridge          34.866 118.884 153.9(153.7)  .009  .009   2.80   3.1   .021  .015  .008   .036
+CI SCSN  TA2   Wrightwood, Big Pines Hwy.              34.382 117.678 154.1(132.6)  .037  .036   4.24   1.9   .147  .052  .009   - -
+CI SCSN  Q0035 Ninth Street, Acton Ca 93510            34.466 118.204 154.8(142.3)  .068  .068   4.40   2.2   .167  .032  .010   - -
+CI SCSN  HEC   Hector                                  34.829 116.335 155.3(123.6)  .033  .033   4.17   3.4   .068  .044  .010   - -
+CE CGS   35511 Lakeview - Maricopa & Calif Aqueduct    35.059 119.084 156.2(153.4)  .025  .024   8.82  11.1   .045  .054  .024   - -
+CI SCSN  TUQ   Turquiose Mountain                      35.436 115.924 156.3(131.8)  .020  .020   2.30   1.7   .058  .034  .007   - -
+CI SCSN  LUC2  Lucerne Valley 2                        34.456 116.964 156.8(126.9)  .095  .094  11.90   3.7   .226  .210  .015   - -
+CI SCSN  LJR   Lone Juniper Ranch                      34.808 118.868 157.2(156.9)  .014  .013   3.08   3.6   .028  .026  .012   - -
+CI SCSN  LUG   Hesperia, Ranchero St & Summit Valley   34.366 117.367 157.2(131.4)  .029  .029   5.04   3.0   .092  .039  .027   - -
+CE CGS   22510 Lucerne Valley - Hwy 247 & Ladera       34.443 116.938 159.0(129.0)  .038  .039   4.21   3.1   .053  .080  .010   - -
+CI SCSN  CHF   Chilao Flat Rngr Sta                    34.333 118.026 164.0(147.6)  .010  .010   2.05   1.5   .021  .019  .006   - -
+CI SCSN  OSI   Osito Audit: Castaic Lake Dam           34.614 118.724 164.0(161.1)  .012  .012   3.60   3.1   .018  .026  .008   - -
+CI SCSN  SLM   Solemint                                34.452 118.423 164.3(155.0)  .027  .027   4.64   3.1   .078  .048  .014   - -
+CI SCSN  FRM   Frazier Mountain                        34.775 118.969 166.5(166.3)  .006  .006   2.07   2.7   .017  .011  .006   - -
+CI SCSN  CJM   Cajon Mountain                          34.271 117.424 167.0(142.0)  .041  .040   4.12   2.4   .111  .051  .010   - -
+CI SCSN  CSL   Castaic Lake                            34.497 118.616 168.9(163.0)  .021  .020   4.81   4.7   .055  .043  .009   - -
+CI SCSN  BFS   Mt. Baldy Ranger Station                34.239 117.659 169.9(147.8)  .011  .010   1.58   1.0   .027  .010  .005   - -
+NP NSMP  5409  Lytle Creek; Fire Station               34.234 117.482 170.7(146.4)  .033  .033   2.49   1.4   .102  .021  .005   - -
+CE CGS   24064 Santa Clarita - Seco & Bouquet Cyn Roads34.434 118.532 170.8(162.9)  .042  .042   4.86   3.7   .141  .038  .017   - -
+CI SCSN  VOG   Valley Oaks Golf Course                 36.321 119.382 171.9(145.5)  .017  .017   5.53   5.3   .046  .031  .012   - -
+CI SCSN  PDE   Pardee                                  34.442 118.582 172.4(165.3)  .018  .018   4.45   4.1   .046  .039  .011   - -
+CE CGS   35219 Buttonwillow - Hwy 58 & Wasco           35.403 119.450 172.6(160.3)  .013  .012   6.71   8.6   .021  .032  .015   - -
+CE CGS   23072 Lake Arrowhead - Hwy 173 & Oak          34.253 117.174 172.6(144.9)  .023  .023   2.55   2.2   .101  .016  .005   - -
+CI SCSN  SIL   Silver Peak                             34.348 116.827 172.7(142.3)  .022  .023   2.86   2.8   .060  .031  .011   - -
+CI SCSN  GCC   Gold Creek Center                       34.328 118.319 172.9(160.9)  .048  .048   3.76   2.3   .129  .056  .006   - -
+CI SCSN  QUG   Valencia, Sierra Hwy                    34.396 118.498 173.1(164.3)  .022  .022   5.61   4.3   .039  .047  .023   - -
+CI SCSN  SBPX  Strawberry Peak                         34.232 117.235 173.7(146.7)  .018  .017   2.82   2.4   .054  .036  .011   - -
+CE CGS   24277 Castaic - Hasley Canyon                 34.459 118.652 174.2(168.2)  .020  .019   5.08   5.4   .042  .040  .014   - -
+NP NSMP  5371  San Bernardino; North Verdemont School  34.206 117.367 174.8(149.1)  .026  .026   2.51   1.9   .087  .019  .005   - -
+CE CGS   24407 Sylmar - Pacoima Dam Upper Left Abutment34.334 118.397 175.1(164.3)  .017  .017   3.06   3.3   .049  .010  .006   - -
+CE CGS   24344 Valencia - 2-story Hospital             34.398 118.554 175.3(167.3)  .019  .018   5.86   5.3   .044  .047  .015   .041
+CE CGS   24279 Newhall - County Fire Sta.              34.388 118.534 175.4(167.0)  .033  .033   6.97   4.5   .082  .060  .028   - -
+NP NSMP  5036  San Bernardino; Sycamore Forest Fire Sta34.193 117.427 175.6(150.7)  .010  .009   1.99   1.9   .017  .011  .004   - -
+CI SCSN  MWC   Mount Wilson Obsv                       34.224 118.058 176.5(160.0)  .016  .016   2.45   2.0   .045  .018  .009   - -
+CI SCSN  IPT   Inspiration Point                       34.197 117.285 176.8(150.3)  .036  .037   3.35   2.6   .083  .053  .010   - -
+CI SCSN  Q0015 Green Mill Ave, Newhall                 34.375 118.549 177.3(169.0)  .042  .042   5.28   4.8   .139  .055  .023   - -
+CE CGS   24763 Sylmar - County Hospital Grounds        34.328 118.445 177.6(167.4)  .017  .017   5.00   4.3   .057  .029  .010   - -
+CE CGS   24514 Sylmar - 6-story County Hospital        34.326 118.446 177.8(167.5)  .016  .016   5.32   4.3   .040  .021  .011   .045
+CE CGS   23285 San Bernardino - 5-story CSUSB Library  34.182 117.324 177.9(151.8)  .020  .019   2.94   1.8   .084  .037  .005   .102
+CI SCSN  DTC   Del Valle Training Center               34.424 118.662 177.9(171.7)  .036  .035   6.93   6.6   .113  .073  .016   - -
+CE CGS   24088 Pacoima - Kagel Canyon Fire Sta         34.296 118.376 178.2(166.7)  .038  .038   4.89   3.8   .113  .081  .010   - -
+CI SCSN  BBR   Big Bear - Solar Observatory (BBR)      34.262 116.921 178.3(148.6)  .034  .034   4.24   2.9   .073  .043  .008   - -
+CI SCSN  RAG   Ragtown                                 34.683 116.151 178.6(147.0)  .037  .036   3.04   2.4   .102  .034  .005   - -
+CI SCSN  LMY   Lockwood Valley Maintenance Yard        34.733 119.104 178.8(178.6)  .012  .012   3.05   2.8   .033  .027  .011   - -
+CI SCSN  TFT   Taft Base                               35.146 119.419 179.1(171.4)  .008  .008   4.57   4.4   .019  .024  .019   - -
+CE CGS   24380 Piru - Santa Felicia Dam Downstream     34.459 118.754 179.5(174.8)  .014  .014   3.96   5.0   .038  .034  .009   - -
+CE CGS   24009 Tujunga - Foothill & Mt Gleason Ave     34.258 118.301 179.5(166.6)  .022  .022   2.76   2.3   .069  .051  .006   - -
+CE CGS   24552 Sylmar - I5/14 Intrchnge S Grnds [Abando34.333 118.508 179.7(170.3)  .012  .011   3.99   4.5   .020  .021  .011   - -
+CI SCSN  JVA   Landers, Hwy 247 and Pony Rd.           34.366 116.613 179.8(148.4)  .030  .030   3.09   2.6   .078  .029  .010   - -
+CE CGS   25029 Frazier Park - Lockwood Valley          34.748 119.134 179.8(179.6)  .010  .010   2.60   2.6   .018  .029  .011   - -
+CI SCSN  GOU   Gould                                   34.221 118.188 180.0(165.3)  .016  .016   1.84   1.8   .034  .016  .007   - -
+NN UNR   DSP   Deep Springs  California w84gm          37.368 117.972 180.5(154.6)  .002  .002    .76    .7   .006  .003  .003   - -
+NP NSMP  1043  Maricopa Array                          35.078 119.401 180.7(174.1)  .009  .009   5.95   4.6   .019  .015  .015   - -
+CE CGS   24944 Glendale - Foothill Blvd & New York Ave 34.230 118.253 180.9(167.1)  .024  .025   2.69   1.8   .061  .022  .005   - -
+CI SCSN  DEC   Green Verdugo Microwave Site            34.254 118.334 181.1(168.6)  .026  .026   3.17   2.5   .063  .033  .007   - -
+CE CGS   23090 Rancho Cucamonga - Hwy 30 & Amethyst    34.134 117.598 181.4(158.5)  .019  .019   2.52   1.5   .070  .032  .009   - -
+CI SCSN  LFP   Sylmar, I-5 at Los Angeles Resevoir     34.305 118.488 181.6(171.7)  .034  .034   4.99   5.2   .105  .049  .015   - -
+CI SCSN  Q0000 Altadena 1                              34.188 118.115 181.7(165.7)  .027  .027   2.56   1.8   .088  .037  .009   - -
+CE CGS   22791 Big Bear Lake - Fire Station            34.241 116.872 182.1(152.2)  .044  .044   5.37   2.5   .114  .118  .005   - -
+CE CGS   24402 Altadena - Eaton Canyon Park            34.177 118.097 182.4(166.2)  .019  .019   2.31   1.9   .060  .028  .008   - -
+CE CGS   35409 Taft - 3-story School Bldg.             35.147 119.460 182.5(174.4)  .009  .009   3.10   2.6   .023  .020  .014   .022
+CE CGS   24010 Glendale - Rosemont & Honolulu          34.208 118.233 182.7(168.5)  .022  .022   2.29   1.8   .050  .016  .005   - -
+CE CGS   23163 Rancho Cucamonga - Baseline & Rochester 34.123 117.540 182.8(159.1)  .019  .019   2.34   1.5   .071  .022  .006   - -
+NP NSMP  5337  San Bernardino; FS No. 04               34.140 117.294 182.9(156.6)  .030  .030   3.55   2.5   .078  .071  .008   - -
+CI SCSN  PDU   Upland, Euclid Ave and Foothill Blvd    34.121 117.638 182.9(160.4)  .014  .014   2.17   1.4   .040  .022  .006   - -
+CE CGS   23138 Fontana - Citrus & Baseline             34.125 117.454 183.0(158.3)  .012  .012   1.88   1.6   .019  .030  .005   - -
+CE CGS   23049 La Verne - Wheeler & Ruggles            34.125 117.777 183.1(162.4)  .020  .020   2.20   1.2   .066  .042  .006   - -
+CI SCSN  OAT   Oat Mountain                            34.344 118.614 183.3(175.5)  .017  .016   5.08   4.6   .051  .037  .016   - -
+CE CGS   23939 Claremont - Hwy 30 & Towne              34.121 117.738 183.3(162.0)  .027  .027   1.97   1.0   .075  .030  .005   - -
+CE CGS   23634 San Bernardino - 5-story Hospital       34.132 117.322 183.4(157.4)  .026  .026   3.60   2.4   .069  .053  .013   .123
+CE CGS   23024 Monrovia - Colorado & Myrtle            34.147 117.999 183.6(165.9)  .022  .022   3.08   2.1   .049  .049  .010   - -
+CE CGS   23177 Duarte - Huntington & Highland          34.141 117.967 183.8(165.6)  .015  .015   2.78   1.9   .054  .019  .010   - -
+CE CGS   23178 Azusa - Foothill & San Gabriel          34.132 117.911 183.9(164.9)  .013  .013   2.25   1.6   .035  .023  .009   - -
+CI SCSN  Q0001 East Floral Ave. Arcadia                34.149 118.030 184.0(166.7)  .021  .021   2.57   2.0   .065  .028  .011   - -
+CE CGS   24800 Mission Hills - Sepulveda & San Fernando34.273 118.467 184.0(173.5)  .017  .016   6.39   5.8   .040  .041  .016   - -
+CE CGS   23089 Upland - 13th & Benson                  34.112 117.681 184.0(162.0)  .014  .014   2.03   1.4   .031  .031  .006   - -
+CE CGS   24023 Pasadena - Fair Oaks & Hammond          34.166 118.150 184.9(169.3)  .025  .025   3.43   1.6   .058  .039  .007   - -
+CE CGS   23836 Glendora - Gladstone & Sunflower        34.114 117.851 185.1(165.3)  .015  .015   2.71   1.7   .052  .028  .007   - -
+CI SCSN  PASC  Pasadena Art Center, College Of Design  34.171 118.185 185.2(170.1)  .007  .007   1.82   1.6   .018  .011  .006   - -
+CE CGS   24021 Glendale - Chevy Chase & Linda Vista    34.174 118.200 185.3(170.4)  .018  .018   1.98   1.5   .038  .012  .006   - -
+CI SCSN  KIK   Pasadena, Foothill & Sierra Madre Blvd. 34.150 118.102 185.4(169.0)  .022  .022   3.12   2.2   .054  .035  .011   - -
+CE CGS   24022 Pasadena - I210 & Lake                  34.155 118.133 185.6(169.7)  .024  .024   3.79   2.0   .062  .043  .009   - -
+CI SCSN  FON   Fontana, Arrow Hwy and Bennett Ave.     34.100 117.439 185.8(161.0)  .013  .013   1.99   1.5   .048  .029  .005   - -
+CE CGS   24855 Piru - Church St & Camulos              34.413 118.797 185.9(181.1)  .015  .015   5.49   5.4   .041  .045  .017   - -
+CI SCSN  HLN   Highland, Baseline and Kensington Ct.   34.121 117.219 186.1(159.1)  .018  .018   2.59   2.5   .049  .033  .007   - -
+CE CGS   23940 Pomona - Garey & Bonita                 34.096 117.745 186.2(164.9)  .013  .013   2.25   1.3   .033  .038  .006   - -
+CE CGS   24946 Glendale - Canada & Verdugo             34.173 118.228 186.2(171.7)  .028  .028   2.18   1.7   .108  .010  .006   - -
+CE CGS   24566 Pasadena - 12-story Office Bldg         34.148 118.153 186.8(171.1)  .020  .020   2.34   1.6   .052  .027  .005   .037
+CE CGS   24571 Pasadena - 9-story Commercial Bldg      34.146 118.144 186.8(171.0)   - -   - -      -      -    - -   - -   - -   .052
+CE CGS   24546 Pasadena - 12-story Commerce/Office Bldg34.146 118.147 186.9(171.1)  .017  .017   2.57   1.7   .042  .038  .007   .035
+CE CGS   24541 Pasadena - 6-story Office Bldg          34.146 118.148 186.9(171.2)  .015  .015   2.66   1.7   .051  .038  .007   .037
+CI SCSN  CFS   San Bernardino, 3rd St. at S. Waterman  34.105 117.283 186.9(160.5)  .023  .023   4.22   2.8   .058  .050  .015   - -
+CE CGS   24460 Pasadena - 3-story Computer Bldg        34.140 118.124 187.0(170.9)  .021  .021   3.12   2.0   .051  .043  .009   .057
+CE CGS   24465 Pasadena - Chester & Del Mar            34.140 118.125 187.0(170.9)  .021  .021   3.35   2.1   .044  .035  .009   - -
+CI SCSN  PSR   Puddingstone Reservoir                  34.092 117.807 187.1(166.6)  .018  .018   2.30   1.5   .063  .032  .008   - -
+CE CGS   23327 Pomona - Puddingstone Dam Dwnstrm       34.092 117.810 187.1(166.6)  .013  .013   1.80   1.4   .039  .024  .008   - -
+CE CGS   23554 San Bernardino - 2nd & Arrowhead B      34.103 117.289 187.1(160.7)  .024  .024   3.99   3.0   .073  .049  .014   - -
+CE CGS   24015 Burbank - Thornton & Catalina           34.196 118.341 187.2(174.4)  .018  .018   3.14   2.1   .056  .040  .008   - -
+CI SCSN  RCU   Rancho Cucamonga                        34.083 117.524 187.2(163.3)  .022  .022   1.86   1.5   .046  .021  .004   - -
+CE CGS   24385 Burbank - 10-story Residential Bldg     34.187 118.312 187.2(174.0)  .019  .019   3.76   1.9   .053  .032  .010   .318
+NP NSMP  5425  Granada Hills; Porter Ranch Fire Station34.277 118.560 187.3(178.1)  .019  .019   4.27   4.6   .059  .050  .011   - -
+CI SCSN  CAC   Pasadena, Caltech Athenaeum Cellar      34.137 118.122 187.3(171.2)  .022  .022   3.34   2.1   .053  .034  .008   - -
+NP NSMP  5407  Pasadena; Millikan Library              34.137 118.126 187.4(171.3)   - -   - -      -    .0   .146  .547  .018   .086
+CE CGS   24454 Pasadena - 3-story University Bldg      34.136 118.126 187.6(171.4)  .026  .026   4.10   2.2   .070  .052  .010   .122
+CE CGS   24587 Burbank - N. Hollywood & Airport        34.194 118.350 187.7(175.0)  .024  .024   3.77   2.3   .093  .040  .009   - -
+CE CGS   24455 Pasadena - California & Wilson          34.134 118.126 187.7(171.6)  .033  .033   4.60   2.1   .082  .064  .010   - -
+CE CGS   23179 Covina - Cypress & Azusa                34.096 117.906 187.8(168.6)  .022  .021   4.33   2.6   .062  .047  .010   - -
+CI SCSN  CLT   Colton, Grape St. and W. Mill St        34.093 117.317 187.8(161.7)  .037  .037   5.32   2.5   .105  .075  .014   - -
+CI SCSN  RIO   Rio Hondo                               34.105 117.980 187.9(169.7)  .017  .017   3.76   2.4   .053  .032  .011   - -
+CE CGS   24765 Panorama City - Roscoe & Woodman        34.220 118.430 187.9(176.4)  .023  .023   5.49   6.4   .050  .035  .016   - -
+CE CGS   24945 Glendale - Brand Blvd & Stocker         34.163 118.255 188.0(173.8)  .027  .027   3.72   1.8   .065  .034  .008   - -
+CI SCSN  MTP   Mountain Pass                           35.484 115.553 188.0(165.0)  .010  .010   1.04    .9   .026  .009  .003   - -
+CE CGS   23895 Ontario - 4th & Mountain                34.076 117.671 188.0(165.8)  .016  .016   2.97   2.1   .035  .042  .010   - -
+CE CGS   24815 North Hollywood - Laurel Cyn & Sherman  34.199 118.397 188.8(176.7)  .019  .019   4.61   4.7   .056  .033  .017   - -
+CI SCSN  BCW   Bitter Creek Wildlife                   34.940 119.413 188.8(184.3)  .010  .010   3.04   3.2   .019  .019  .009   - -
+CE CGS   24947 Burbank - Burbank Blvd & Buena Vista    34.180 118.337 188.8(175.8)  .032  .032   4.00   2.3   .078  .045  .013   - -
+CE CGS   24051 Northridge - Lassen & Reseda            34.250 118.537 189.0(179.3)  .030  .029   7.10   6.0   .085  .043  .020   - -
+CE CGS   24110 Temple City - Las Tunas & Kauffman      34.109 118.058 189.0(171.8)  .022  .022   4.35   3.0   .057  .064  .018   - -
+CE CGS   24814 Los Angeles - Colorado & Eagle Rock     34.140 118.211 189.3(174.3)  .022  .022   2.47   1.8   .063  .019  .006   - -
+CE CGS   24386 Van Nuys - 7-story Hotel                34.220 118.471 189.5( -- )  .022  .021   7.34   6.6   .049  .047  .025   - -
+CE CGS   24115 El Monte - Peck & Cherrylee             34.096 118.012 189.5(171.7)  .021  .022   5.55   3.4   .043  .037  .027   - -
+CE CGS   24401 San Marino - Southwestern Academy       34.115 118.131 189.9(173.7)  .022  .022   3.02   1.8   .070  .025  .007   - -
+CI SCSN  HLL   North Hollywood                         34.176 118.360 189.9(177.2)  .016  .016   3.54   2.7   .047  .029  .011   - -
+CE CGS   23077 Montclair - Mission & Monte Vista       34.057 117.698 190.1(168.3)  .036  .036   4.25   2.6   .104  .047  .016   - -
+CI SCSN  SVD   Mentone, Greenspot Rd.                  34.106 117.098 190.1(162.1)  .023  .023   2.33   2.4   .060  .020  .005   - -
+CE CGS   24016 Glendale - Colorado & Columbus          34.144 118.262 190.2(176.0)  .024  .024   3.14   2.1   .072  .054  .006   - -
+CE CGS   24029 San Gabriel - Del Mar & Las Tunas       34.103 118.100 190.4(173.8)  .021  .021   3.87   3.0   .052  .028  .013   - -
+CE CGS   23525 Pomona - 4th & Locust                   34.056 117.749 190.5(169.3)  .016  .016   2.39   1.6   .038  .033  .008   - -
+CE CGS   23511 Pomona - 2-story Commercial Bldg        34.056 117.750 190.6(169.3)  .015  .015   2.35   1.5   .035  .032  .007   .048
+CE CGS   23774 West Covina - I10 & Pacific Ave         34.073 117.938 190.7(171.9)  .018  .018   4.16   3.0   .044  .027  .015   - -
+CE CGS   24805 Northridge - Parthenia & Lindley        34.229 118.529 190.8(180.7)  .042  .042  10.35   8.3   .079  .078  .021   - -
+CE CGS   23056 West Covina - Cortez & Citrus           34.065 117.893 191.0(171.5)  .020  .019   4.39   3.3   .052  .035  .016   - -
+CE CGS   24198 Chatsworth - 2-story Commercial Bldg    34.240 118.565 191.2(181.7)  .020  .020   6.84   5.0   .069  .064  .025   .076
+CE CGS   23287 San Bernardino - 6-story Hotel          34.066 117.280 191.3(164.9)  .032  .032   5.35   2.8   .082  .066  .019   .119
+CE CGS   24030 Alhambra - 1st & Woodward               34.097 118.131 191.8(175.5)  .024  .024   3.82   2.4   .065  .038  .012   - -
+NP NSMP  5422  Van Nuys; Fire Station No. 39           34.185 118.447 192.1(180.5)  .022  .022   7.03   6.5   .042  .044  .030   - -
+CE CGS   23773 Baldwin Park - I10 & Baldwin Park Blvd  34.067 117.985 192.2(173.9)  .016  .016   5.29   4.0   .043  .029  .021   - -
+CE CGS   23495 Redlands - 1-story Warehouse            34.066 117.215 192.3(165.3)  .031  .032   3.62   2.7   .119  .053  .014   .265
+CE CGS   24114 El Monte - Valley Blvd & Santa Anita    34.075 118.042 192.3(174.7)  .022  .022   7.31   4.3   .059  .054  .025   - -
+CE CGS   24033 San Gabriel - Del Mar & Wells           34.084 118.101 192.5(175.8)  .018  .018   4.94   3.0   .046  .034  .018   - -
+CE CGS   24808 Van Nuys - Burbank & Fulton             34.172 118.421 192.5(180.5)  .020  .020   8.29   5.2   .048  .044  .021   - -
+CE CGS   23417 Ontario - Hwy 60 & Vineyard             34.033 117.607 192.6(169.6)  .016  .016   2.61   1.5   .050  .027  .010   - -
+CE CGS   23416 Ontario - 5-story Hospital              34.032 117.608 192.7(169.8)  .013  .013   2.41   1.5   .035  .028  .011   .062
+CI SCSN  Q0057 Densmore Ave, Lake Balboa               34.188 118.477 192.9(181.8)  .029  .029   8.90   6.9   .078  .066  .030   - -
+CI SCSN  FMO   Fillmore                                34.409 118.921 193.1(189.8)  .020  .020   7.91   6.1   .028  .048  .019   - -
+CE CGS   24012 North Hollywood - Hwy 101 & Vineland    34.148 118.371 193.1(180.3)  .022  .022   4.45   2.3   .075  .046  .010   - -
+CE CGS   24806 Canoga Park - Winnetka & Roscoe         34.222 118.571 193.3(183.7)  .023  .023   7.39   5.2   .062  .088  .022   - -
+CI SCSN  SSS   Stringfellow Superfund Site Jurupa Mount34.031 117.455 193.3(168.7)  .005  .005    .99   1.2   .009  .005  .003   - -
+NP NSMP  5229  CA Loma Linda - VAMC                    34.049 117.251 193.5(166.9)  .031  .031   3.43   1.9   .223  .077  .012   - -
+CE CGS   23057 West Covina - Azusa & Fairgrove         34.043 117.912 193.6(174.4)  .025  .025   3.86   3.3   .096  .032  .012   - -
+CE CGS   24861 Simi Valley - Katherine Rd & Sylvan     34.262 118.670 193.7(185.7)  .013  .013   2.94   3.2   .026  .024  .009   - -
+CI SCSN  Q0031 River Street, Fillmore Ca 93015         34.395 118.912 193.8(190.2)  .031  .031  12.27   7.8   .051  .069  .037   - -
+CE CGS   24865 Universal City - Hwy 101 & Lankershim   34.139 118.365 194.0(181.0)  .032  .032   3.52   2.2   .112  .032  .008   - -
+CE CGS   23481 Redlands - 7-story Commercial Bldg      34.056 117.179 194.0(166.7)  .029  .028   2.91   2.6   .063  .077  .005   .031
+CI SCSN  GR2   Griffith Observatory                    34.118 118.300 194.1(180.1)  .011  .011   2.19   2.4   .027  .018  .005   - -
+CE CGS   24812 Los Angeles - Rowena & Glendale         34.108 118.264 194.1(179.6)  .018  .018   2.72   2.1   .054  .020  .008   - -
+CE CGS   24813 Cypress Park - San Fernando & Division  34.097 118.231 194.3(179.4)  .020  .020   2.20   2.2   .044  .032  .008   - -
+BK BDSN  KARE  Kearney Agricultural Research and Extens36.597 119.504 194.4(166.0)  .017  .017   2.78   1.9   .021  .009  .002   - -
+CE CGS   24011 Hollywood - Hwy 101 & Barham            34.127 118.346 194.6(181.3)  .025  .025   2.53   2.1   .044  .027  .005   - -
+CE CGS   23843 La Puente - Amar & Hacienda             34.036 117.951 194.9(176.1)  .026  .026   8.87   5.5   .055  .048  .029   - -
+CE CGS   23091 Mira Loma - Mission & San Sevaine       34.014 117.511 195.0(170.9)  .013  .013   1.29   1.3   .039  .014  .003   - -
+CE CGS   24461 Alhambra - Fremont School               34.071 118.151 195.1(179.0)  .016  .016   3.24   2.8   .043  .023  .010   - -
+CE CGS   24866 Reseda - Vanowen & Wilbur               34.193 118.548 195.1(185.0)  .032  .032   9.49   7.0   .080  .073  .038   - -
+CE CGS   22959 Landers - Hwy 247 & Jesse               34.282 116.453 195.4(163.7)  .017  .017   2.42   2.3   .053  .015  .007   - -
+CE CGS   23938 Walnut - La Puente & Lemon              34.021 117.866 195.5(175.6)  .030  .030   5.06   2.7   .090  .045  .016   - -
+CE CGS   24982 Los Angeles - Hollywood Blvd & Hillhurst34.100 118.288 195.6(181.4)  .020  .020   2.99   2.8   .053  .041  .011   - -
+CI SCSN  BLC   Black Canyon                            34.244 118.673 195.6(187.5)  .015  .015   2.90   3.3   .030  .032  .013   - -
+CI SCSN  FHO   Forest Home - SOSAF Station             34.094 116.936 195.6(166.4)  .021  .021   2.43   2.5   .051  .021  .004   - -
+CI SCSN  RUS   S San Gabriel, Whittier Narrows Golf C. 34.051 118.081 195.7(178.6)  .021  .020   4.52   4.1   .048  .054  .016   - -
+CE CGS   24722 Sherman Oaks - Ventura & Columbus       34.154 118.464 195.8(184.3)  .020  .020   4.33   2.7   .072  .034  .022   - -
+CE CGS   24054 West Hills - 3-story LAPD 911 Bldg      34.221 118.628 195.8(186.9)  .022  .022   4.81   3.7   .068  .059  .013   .045
+CI SCSN  MLS   Mira Loma, I-15 and Riverside           34.005 117.562 195.8(172.3)  .021  .021   1.99   1.2   .067  .020  .004   - -
+CE CGS   24397 Los Angeles - 7-story Hospital          34.097 118.289 195.9(181.7)  .022  .022   2.86   2.8   .060  .038  .011   .065
+CE CGS   24468 Los Angeles - 8-story CSULA Admin. Bldg.34.066 118.169 196.0(180.1)  .022  .022   3.34   3.0   .053  .030  .010   .065
+CE CGS   24860 Simi Valley - Church St & Los Angeles Av34.271 118.736 196.0(188.9)  .027  .027   6.28   4.3   .060  .093  .019   - -
+CE CGS   24804 West Hills - Roscoe & Fallbrook         34.219 118.628 196.0(187.0)  .037  .037   4.86   3.6   .109  .073  .016   - -
+CE CGS   24020 Los Angeles - I5 & Pasadena Ave         34.075 118.218 196.3(181.0)  .013  .013   2.97   2.6   .049  .024  .010   - -
+CE CGS   24645 Encino - Ventura & Libbit               34.158 118.488 196.3(185.1)  .019  .019   3.89   2.4   .050  .050  .010   - -
+CE CGS   24648 Encino - 4-story Hospital               34.157 118.487 196.4(185.1)  .018  .018   3.55   2.1   .044  .055  .010   .065
+CI SCSN  CHN   Chino                                   33.999 117.680 196.6(174.4)  .018  .018   3.82   2.4   .059  .037  .020   - -
+CE CGS   24850 Whittier - Workman Mill Rd & Pomona Fwy 34.032 118.019 196.6(178.6)  .021  .021   3.79   3.2   .071  .039  .014   - -
+CI SCSN  GVR   Garvey Reservoir                        34.050 118.120 196.6(180.0)  .026  .026   4.23   3.5   .080  .026  .016   - -
+CE CGS   24013 Canoga Park - De Soto & Van Owen        34.194 118.589 196.7(187.1)  .024  .024   7.29   5.2   .051  .036  .023   - -
+CI SCSN  WNS   Wonderland Avenue School                34.115 118.380 196.9(184.0)  .009  .009   4.23   5.3   .021  .023  .009   - -
+CE CGS   23173 Diamond Bar - Grand & Diamond Bar Blvd  34.002 117.814 197.1(176.5)  .013  .013   2.38   1.6   .035  .030  .009   - -
+CE CGS   24260 Los Angeles - 9-story Univ Hospital Bldg34.062 118.201 197.3(181.8)  .015  .015   3.35   3.0   .060  .021  .009   .060
+CE CGS   24592 Los Angeles - City Terrace              34.053 118.172 197.4(181.5)  .024  .024   3.65   3.4   .069  .025  .011   - -
+CI SCSN  CFT   Crafton Hills                           34.035 117.112 197.4(169.7)  .014  .014   2.63   2.8   .042  .031  .007   - -
+CE CGS   23164 Redlands - Garden & Mariposa            34.026 117.155 197.6(170.2)  .009  .008   2.05   2.7   .025  .010  .006   - -
+CE CGS   24580 Los Angeles - 2-story Fire Command Cntr 34.052 118.172 197.6(181.6)  .019  .019   4.11   3.2   .073  .022  .014   .042
+CE CGS   13162 Chino Hills - Hwy 71 & Eucalyptus [Aband33.990 117.718 197.7(175.9)  .020  .020   3.43   1.8   .055  .056  .015   - -
+CE CGS   24249 Los Angeles - 8-story County Med Ofc Bld34.058 118.209 197.8(182.4)  .017  .017   3.56   2.6   .052  .029  .011   .079
+CE CGS   24025 Monterey Park - Elmgate & Garfield [Aban34.041 118.130 197.8(181.2)  .016  .016   3.56   3.2   .047  .019  .013   - -
+CE CGS   24103 Tarzana - Clubhouse                     34.160 118.534 197.9(187.3)  .018  .018   3.08   2.4   .041  .037  .009   - -
+CE CGS   24811 Los Angeles - Melrose & Western         34.084 118.308 197.9(183.8)  .027  .027   3.21   3.1   .095  .034  .009   - -
+CE CGS   24248 Los Angeles - 9-story County Hospital   34.057 118.206 197.9(182.4)  .015  .015   3.86   2.7   .037  .035  .010   .048
+CE CGS   24363 Los Angeles - Marengo & State           34.058 118.210 197.9(182.4)  .018  .018   3.93   2.6   .060  .030  .011   - -
+CE CGS   24809 Hollywood - Sunset & Fairfax            34.097 118.353 197.9(184.5)  .017  .017   2.82   2.7   .045  .028  .008   - -
+CI SCSN  WLT   Hacieinda Heights                       34.009 117.951 197.9(179.0)  .047  .047   6.96   5.1   .120  .056  .023   - -
+CE CGS   24723 Los Angeles - 2-story County EOC Bldg   34.050 118.176 197.9(181.9)  .025  .025   4.34   3.5   .088  .025  .012   .041
+CI SCSN  GMA   Goat Mountain Astronomical Research Stat34.291 116.383 198.0(166.2)  .029  .029   2.65   2.1   .078  .026  .006   - -
+CE CGS   23075 Yucaipa - Bryant & Oak Glen             34.046 117.035 198.0(169.6)  .021  .021   2.53   2.7   .041  .021  .010   - -
+CI SCSN  RVR   Riverside, Lake Evans                   33.994 117.375 198.1(172.7)  .006  .006   1.02   1.2   .017  .009  .003   - -
+CI SCSN  SRA   Siberia                                 34.606 115.950 198.1(166.6)  .020  .020   2.31   2.1   .039  .019  .007   - -
+CE CGS   24303 Los Angeles - Hollywood Storage Grounds 34.090 118.340 198.3(184.7)  .030  .030   3.93   3.1   .063  .055  .016   - -
+NP NSMP  5108  Canoga Park; Santa Susana, Ground Statio34.231 118.714 198.7(190.9)  .014  .014   2.54   2.5   .034  .032  .010   - -
+CE CGS   24611 Los Angeles - Temple & Hope             34.059 118.247 198.8(183.8)  .018  .018   3.33   3.4   .052  .025  .010   - -
+CE CGS   24216 Los Angeles - 156-ft Campanile          34.059 118.246 198.8(183.8)  .017  .017   3.10   2.8   .040  .026  .010   .065
+CE CGS   24839 Los Angeles - 1st & Figueroa            34.058 118.252 199.0(184.1)  .019  .019   3.18   3.4   .051  .023  .009   - -
+CE CGS   24803 Woodland Hills - Victory & Fallbrook    34.186 118.624 199.1(189.8)  .020  .020   5.76   4.0   .050  .060  .023   - -
+CE CGS   24288 Los Angeles - 32-story Residential Bldg 34.056 118.252 199.2(184.3)  .022  .022   3.47   2.8   .043  .025  .011   .053
+CE CGS   24289 Los Angeles - 2nd & Flower              34.056 118.252 199.3(184.4)  .023  .022   3.89   3.6   .057  .027  .009   - -
+CE CGS   13921 Riverside - Limonite & Downey           33.975 117.487 199.3(175.0)  .016  .016   1.26   1.2   .064  .008  .002   - -
+CE CGS   24053 Los Angeles - 3-story LAPD 911 Bldg     34.052 118.242 199.4(184.3)  .020  .020   3.76   3.0   .052  .033  .011   .033
+CE CGS   13415 Riverside - 10-story Office Bldg        33.980 117.374 199.6(174.2)  .014  .014   1.65   1.1   .043  .022  .003   .034
+CE CGS   13702 Riverside - 7-story County Jail         33.979 117.374 199.7(174.3)  .018  .018   1.64   1.2   .056  .026  .003   .054
+CI SCSN  RHC2  Rose Hills Cemetery 2                   34.001 118.013 199.8(181.6)  .034  .034   7.44   3.6   .080  .038  .016   - -
+CE CGS   24980 Los Angeles - 7th & Burlington          34.056 118.274 199.9(185.2)  .025  .025   3.53   3.6   .066  .026  .010   - -
+CE CGS   24602 Los Angeles - 52-story Office Bldg.     34.051 118.260 200.0(185.1)  .015  .015   3.53   3.6   .033  .027  .009   .073
+CE CGS   13635 Riverside - 14th & Magnolia             33.976 117.381 200.0(174.7)  .015  .015   1.43   1.2   .067  .018  .003   - -
+CE CGS   13633 Riverside - 6-story Hospital            33.976 117.381 200.0(174.6)  .013  .013   1.75   1.1   .058  .017  .003   .119
+CE CGS   24660 Los Angeles - 73-story Office/Resid Bldg34.050 118.260 200.1(185.2)  .016  .017   3.98   3.2   .035  .026  .011   .095
+CE CGS   24581 Los Angeles - 12-story Comm./Office Bldg34.049 118.260 200.2(185.3)  .017  .017   4.12   3.2   .046  .022  .011   .032
+CE CGS   24833 Los Angeles - Wilshire & Western LADOT  34.063 118.316 200.3(186.2)  .023  .023   4.03   3.7   .056  .034  .013   - -
+CE CGS   24629 Los Angeles - 54-story Office Bldg      34.048 118.262 200.3(185.4)  .016  .016   4.45   3.3   .032  .026  .012   .042
+CI SCSN  DJJ   Donna Jones Jenkins                     34.106 118.455 200.4(188.4)  .008  .008   1.28   1.5   .024  .008  .005   - -
+CI SCSN  DJJB  Donna Jenkins Borehole                  34.106 118.455 200.4(188.4)  .005  .005   2.33   2.9   .012  .010  .005   - -
+CE CGS   24M08 Los Angeles - 34-story Residential Bldg 34.045 118.260 200.6(185.7)  .018  .018   5.22   3.7   .059  .030  .014   .042
+CE CGS   24M07 Los Angeles - 51-story Residential Bldg 34.044 118.257 200.6(185.7)  .014  .014   4.82   3.7   .040  .027  .014   .069
+CE CGS   24M05 Los Angeles - 28-story Residential Bldg 34.046 118.262 200.6(185.7)  .015  .015   4.93   3.6   .047  .024  .014   .048
+CE CGS   24851 Los Angeles - 3rd & La Brea LADOT       34.069 118.346 200.6(186.9)  .017  .017   5.56   4.1   .062  .053  .015   - -
+CE CGS   24040 Los Angeles - Whittier & Euclid         34.031 118.208 200.7(185.1)  .018  .018   4.83   3.7   .031  .030  .016   - -
+CE CGS   24941 City of Commerce - Whittier & Gerhart   34.017 118.147 200.7(184.2)  .018  .018   4.14   3.5   .043  .021  .015   - -
+CE CGS   24579 Los Angeles - 9-story Office Bldg       34.044 118.262 200.8(185.9)   - -   - -      -      -    - -   - -   - -   .065
+CI SCSN  RSB   Riverside, UCR campus                   33.973 117.327 200.8(175.0)  .008  .008    .83    .1   .025  .009  .001   - -
+CI SCSN  RSS   Riverside Surface                       33.973 117.327 200.8(175.0)  .015  .015   1.27   1.3   .053  .010  .003   - -
+CE CGS   24612 Los Angeles - Pico & Sentous [Abandoned]34.043 118.272 201.2(186.4)  .018  .018   4.77   4.0   .055  .033  .015   - -
+CI SCSN  WSS   Hidden Hills, Valley Circle Dr.         34.172 118.650 201.5(192.4)  .020  .020   3.60   3.0   .067  .031  .016   - -
+NP NSMP  5402  Beverly Hills; PacBell Facility         34.076 118.396 201.5(188.5)  .015  .015   3.75   3.9   .047  .038  .013   - -
+CI SCSN  CRG   Crocker Grade                           35.242 119.725 201.5(190.4)  .014  .013   1.75   1.4   .040  .027  .006   - -
+CE CGS   24463 Los Angeles - 5-story Warehouse         34.027 118.225 201.6(186.1)  .015  .015   4.18   3.6   .046  .028  .016   .038
+CE CGS   23920 Yucaipa Valley - Calimesa & Co. Line Rd 34.004 117.059 202.0(173.9)  .015  .015   2.50   3.1   .054  .020  .007   - -
+CI SCSN  Q0002 N Rexford Dr. Beverly Hills             34.072 118.399 202.0(189.0)  .019  .019   3.77   3.7   .059  .043  .012   - -
+CE CGS   13123 Riverside - Airport                     33.951 117.445 202.3(177.6)  .011  .011   1.02   1.2   .027  .006  .002   - -
+CE CGS   13080 Moreno Valley - Sunnymead & Village     33.968 117.252 202.4(175.9)  .020  .020   1.45   1.6   .067  .009  .004   - -
+CE CGS   13914 Riverside - Hwy 91 & Central            33.951 117.388 202.6(177.4)  .011  .011   1.21   1.2   .034  .007  .003   - -
+CE CGS   14041 Montebello - Date & Greenwood           33.991 118.121 203.0(186.1)  .023  .023   3.51   4.1   .084  .034  .013   - -
+CE CGS   14606 Whittier - 8-story Hotel                33.975 118.037 203.1(185.1)  .012  .012   4.81   3.5   .044  .018  .017   .060
+CE CGS   14060 Vernon - I710 & Bandini                 33.999 118.178 203.4(187.2)  .022  .022   5.35   4.5   .059  .042  .019   - -
+CE CGS   14182 Whittier - Greenleaf & Walnut           33.971 118.038 203.5(185.5)  .015  .016   5.26   3.5   .053  .024  .017   - -
+CI SCSN  MOP   Moorpark                                34.281 118.905 203.6(198.6)  .018  .019   5.32   5.9   .040  .049  .019   - -
+CI SCSN  SES   Summit Elementary School                34.437 119.138 203.8(202.6)  .010  .010   3.44   3.3   .018  .025  .015   - -
+CE CGS   24643 Los Angeles - 19-story Office Bldg      34.059 118.418 203.9(191.1)  .020  .020   3.61   3.0   .041  .033  .012   .055
+CE CGS   24987 Los Angeles - Central & Jefferson       34.013 118.257 204.0(188.8)  .013  .013   4.07   4.0   .029  .026  .012   - -
+CI SCSN  USC   Univ Southern Ca                        34.019 118.286 204.1(189.3)  .015  .015   4.87   4.3   .031  .026  .015   - -
+CI SCSN  OLI   Olinda                                  33.945 117.924 204.5(185.1)  .016  .016   3.80   3.0   .037  .020  .013   - -
+CI SCSN  PDW   Prado Wetlands                          33.924 117.617 204.7(181.8)  .017  .017   2.37   1.3   .049  .024  .007   - -
+CE CGS   24704 Los Angeles - I10/La Cienega Bridge     34.037 118.376 204.9(191.4)  .029  .029   6.05   4.4   .077  .039  .015   .068
+CE CGS   24703 Los Angeles - La Cienega Geotech Array  34.036 118.378 205.0(191.6)  .038  .038   6.79   5.0   .094  .042  .015   - -
+CE CGS   24819 Los Angeles - Veteran & Wilshire        34.060 118.449 205.0(192.5)  .015  .015   3.66   3.8   .040  .027  .011   - -
+CI SCSN  SMT   South Mountain                          34.334 119.014 205.0(201.7)  .031  .031  10.50   9.3   .065  .081  .043   - -
+CE CGS   24984 Los Angeles - Exposition & 7th Ave      34.021 118.325 205.0(190.7)  .014  .014   5.22   5.0   .041  .021  .015   - -
+CE CGS   22078 Pioneertown - Bronco & Wyandot          34.155 116.504 205.1(173.8)  .019  .019   2.85   2.8   .052  .038  .009   - -
+CE CGS   13577 Olinda - Carbon Canyon Rd A             33.928 117.803 205.1(184.2)  .032  .032   2.43   2.0   .090  .017  .006   - -
+CI SCSN  LGB   Laguna Bell                             33.975 118.149 205.3(188.7)  .025  .024   4.22   4.3   .081  .037  .015   - -
+CE CGS   13873 Brea - Central Av Caltrans Yard         33.933 117.896 205.5(185.7)  .014  .014   3.39   2.7   .048  .023  .013   - -
+CE CGS   14840 Whittier - Scott & Whittier             33.946 118.001 205.6(187.0)  .019  .019   4.46   3.6   .059  .030  .017   - -
+CI SCSN  SNO   Snow Peak                               34.035 116.808 205.6(175.8)  .012  .012   3.23   2.6   .023  .033  .008   - -
+CE CGS   14826 Los Angeles - 52nd & Central            33.996 118.254 205.6(190.4)  .016  .016   4.82   4.4   .041  .027  .012   - -
+CE CGS   24039 Los Angeles - Vernon & Hoover           34.004 118.287 205.7(190.9)  .018  .018   4.89   4.3   .062  .030  .013   - -
+CI SCSN  YUC   Yucca Valley                            34.197 116.406 205.7(174.1)  .030  .030   3.53   2.2   .057  .045  .009   - -
+NP NSMP  5485  CA Los Angeles - VAMC West LA Bldg 114  34.055 118.462 205.9(193.5)   - -   - -      -    .0   .457  .211  .109   .128
+CI SCSN  MNO   Moreno                                  33.947 117.173 205.9(178.7)  .019  .019   1.96   1.9   .042  .021  .005   - -
+CE CGS   14844 Bell Gardens - Garfield & Florence      33.969 118.149 206.0(189.3)  .023  .023   4.72   4.6   .076  .041  .014   - -
+CE CGS   25132 Santa Paula - 10th & Main [Abandoned]   34.353 119.060 206.0(203.4)  .021  .021   8.96   8.7   .025  .048  .025   - -
+CE CGS   13079 Riverside - Hwy 91 & Van Buren          33.917 117.443 206.0(181.2)  .019  .019   1.46   1.2   .079  .007  .002   - -
+CE CGS   24978 Los Angeles - I405 & Missouri           34.044 118.443 206.4(193.7)  .020  .020   4.52   4.3   .061  .031  .008   - -
+CE CGS   13881 La Habra - La Habra & Monte Vista       33.931 117.956 206.5(187.4)  .018  .018   4.79   3.4   .056  .033  .016   - -
+CE CGS   14825 Huntington Park - Saturn & Hood         33.976 118.209 206.6(190.7)  .020  .020   4.92   5.5   .080  .032  .016   - -
+CE CGS   22520 Yucca Valley - Avalon & Aberdeen        34.195 116.385 206.9(175.3)  .026  .026   3.47   2.1   .060  .044  .009   - -
+CI SCSN  WGR   Wheeler Gorge Ranger Station            34.511 119.274 206.9(206.6)  .004  .004   1.88   2.5   .006  .009  .006   - -
+CI SCSN  GMR   Granite Mountains Research Center       34.785 115.660 207.5(177.4)  .006  .006   1.19   1.6   .013  .004  .004   - -
+CE CGS   24909 Los Angeles - I10/405 Interchange Grnds 34.029 118.435 207.6(194.8)  .028  .028   4.86   4.5   .076  .042  .015   - -
+CE CGS   14828 Downey - Florence & I605                33.939 118.099 208.1(190.7)  .022  .023   4.41   4.0   .069  .033  .016   - -
+CE CGS   14820 Los Angeles - 54th & Crenshaw           33.993 118.343 208.4(194.2)  .019  .019   5.30   5.3   .048  .041  .017   - -
+CE CGS   14027 Santa Fe Springs - Lakeland & Greenstone33.928 118.058 208.5(190.6)  .014  .014   6.08   4.6   .034  .028  .023   - -
+CI SCSN  SMF2  Santa Monica Field 2                    34.022 118.446 208.7(196.0)  .025  .025   5.60   5.1   .071  .052  .014   - -
+CE CGS   13880 Fullerton - Hermosa & Harbor            33.909 117.931 208.7(189.2)  .016  .016   4.09   2.9   .046  .042  .014   - -
+CE CGS   13927 Moreno Valley - Alessandro & Moreno Bch 33.921 117.173 208.7(181.6)  .021  .021   2.07   1.7   .097  .009  .004   - -
+CI SCSN  LCG   Winsor Hills, Holy Cross Cemetery       34.000 118.378 208.8(195.0)  .016  .016   5.51   5.4   .039  .038  .019   - -
+CE CGS   24014 Pacific Palisades - Sunset & Carey      34.045 118.522 209.1(197.4)  .011  .011   3.09   3.4   .029  .024  .008   - -
+NP NSMP  1587  Mt. Barcroft; McAfee Meadow             37.584 118.237 209.2(181.8)  .002  .002   1.20   1.8   .005  .003  .003   - -
+CI SCSN  Q0020 Maureen Dr.,  Cherry Valley             33.960 116.953 209.2(180.4)  .027  .027   3.76   3.2   .066  .037  .009   - -
+CE CGS   24048 Santa Monica - 19th & Wilshire          34.029 118.482 209.3(197.0)  .028  .028   5.36   4.8   .066  .038  .014   - -
+CE CGS   13213 Moreno Valley - 3-story County Hospital 33.912 117.196 209.3(182.4)  .015  .015   1.71   1.6   .033  .008  .004   .038
+CI SCSN  BHP   Baldwin Hills Oil                       33.991 118.362 209.3(195.3)  .015  .015   5.30   5.0   .034  .027  .016   - -
+CI SCSN  AGO   Agoura, Hwy 101 E of Kanan Rd.          34.146 118.767 209.3(201.3)  .014  .013   2.15   2.1   .023  .026  .008   - -
+CI SCSN  NCH   New Cuyama High School                  34.943 119.674 209.7(203.1)  .010  .010   4.75   4.2   .021  .023  .019   - -
+CE CGS   13099 Corona - 6th & Smith                    33.876 117.593 210.1(186.8)  .013  .013   1.96   1.5   .040  .022  .007   - -
+CI SCSN  CRN   Corona, E. 5th St. and Joy St.          33.876 117.561 210.1(186.6)  .016  .016   1.34   1.1   .047  .016  .003   - -
+CE CGS   14937 La Mirada - Civic Center                33.905 118.011 210.2(191.7)  .022  .022   4.82   4.0   .066  .047  .017   - -
+CI SCSN  Q0073 Stunt Road, Calabasas Ca                34.084 118.651 210.3(200.4)  .019  .019   3.04   3.4   .057  .022  .006   - -
+CE CGS   14044 Inglewood - Centinela & La Brea         33.976 118.353 210.5(196.4)  .015  .014   6.28   4.5   .036  .027  .022   - -
+CI SCSN  WTT2  Watts                                   33.949 118.255 210.7(195.2)  .022  .021   5.70   5.4   .060  .026  .013   - -
+CE CGS   24864 Somis - Somis Rd                        34.257 118.996 210.8(206.4)  .014  .014   4.19   4.6   .027  .032  .014   - -
+CI SCSN  MSC   Mission Creek                           34.039 116.648 210.8(180.2)  .043  .043   5.46   3.0   .131  .028  .011   - -
+CE CGS   13122 Featherly Park - Maint. Bldg.           33.869 117.709 211.1(189.1)  .024  .024   2.62   1.6   .101  .035  .009   - -
+CE CGS   14368 Downey - County Maint. Bldg.            33.924 118.168 211.2(194.6)  .024  .024   6.74   5.9   .060  .039  .017   - -
+CE CGS   12919 Beaumont - 6th & Maple                  33.930 116.973 212.0(183.4)  .022  .022   4.49   2.9   .048  .049  .016   - -
+CE CGS   13698 Corona - 2-story Office Bldg            33.856 117.541 212.3(188.6)  .013  .013   1.37   1.0   .046  .007  .003   .033
+CE CGS   22960 Yucca Valley - Hwys 62 & 247            34.122 116.416 212.3(180.9)  .024  .024   3.41   2.6   .044  .066  .009   - -
+CE CGS   14985 Los Angeles - Venice Blvd & Shell       33.991 118.459 212.4(199.5)  .017  .016   4.74   5.1   .035  .035  .018   - -
+CI SCSN  SPF   Saddle Peak Fire Camp 8                 34.059 118.646 212.5(202.3)  .009  .009   3.16   3.6   .027  .023  .006   - -
+CI SCSN  FUL   Fullerton, Amerige Ave. and Pomona Ave. 33.872 117.923 212.6(192.9)  .021  .020   4.35   2.8   .045  .038  .016   - -
+CI SCSN  BBS   Beaumont, I-10 at 79                    33.921 116.981 212.7(184.2)  .015  .015   4.06   2.6   .049  .042  .014   - -
+CE CGS   14767 Los Angeles - Manchester & Osage        33.963 118.380 212.8(198.8)  .016  .016   5.80   5.5   .034  .026  .016   - -
+CE CGS   14934 Los Angeles - Normandie & 108th         33.939 118.300 213.0(198.0)  .015  .015   4.82   4.6   .042  .025  .011   - -
+CE CGS   14403 Los Angeles - 116th St. School          33.929 118.261 213.0(197.4)  .017  .017   5.66   4.9   .053  .027  .014   - -
+CE CGS   24857 Newbury Park - Hillcrest & Lawrence     34.186 118.930 213.6(207.8)  .010  .010   2.80   2.4   .046  .009  .005   - -
+CE CGS   24863 Camarillo - Woodcreek & Santa Rosa      34.224 118.995 213.6(208.9)  .014  .014   5.28   4.5   .023  .039  .015   - -
+CE CGS   13879 Fullerton - Valencia & Brookhurst       33.866 117.959 213.7(194.4)  .041  .041   5.59   2.8   .092  .078  .018   - -
+CI SCSN  NPN   Nipton                                  35.467 115.269 213.8(190.9)  .009  .009   1.80   1.1   .025  .015  .009   - -
+CE CGS   13883 Anaheim - Kraemer & La Palma            33.853 117.858 213.9(193.4)  .024  .024   3.29   1.8   .067  .042  .009   - -
+CI SCSN  CRF   Cerritos Fire                           33.874 118.039 214.2(195.8)  .027  .027   5.18   4.7   .082  .049  .020   - -
+CI SCSN  Q0050 Cayo Grande Court, Newbury Park         34.191 118.959 214.6(209.1)  .012  .012   2.48   2.5   .049  .007  .005   - -
+CE CGS   14829 Bellflower - Flora Vista & Woodruff     33.883 118.118 214.6(197.2)  .031  .031   5.81   5.9   .073  .047  .019   - -
+CE CGS   14822 Los Angeles - Century & Aviation        33.945 118.381 214.6(200.6)  .012  .012   5.69   5.3   .033  .019  .017   - -
+CI SCSN  PDR   Playa Del Rey                           33.963 118.437 214.6(201.3)  .015  .015   5.69   5.2   .032  .030  .020   - -
+CI SCSN  PER   Lake Perris, Lake Perris Drive          33.862 117.205 214.7(187.9)  .006  .005   1.26   1.4   .011  .007  .004   - -
+CI SCSN  CLO   Camarillo                               34.220 119.009 214.7(210.1)  .015  .015   4.89   5.1   .026  .037  .020   - -
+CI SCSN  Q0077 Dwight Avenue                           34.231 119.030 214.9(210.6)  .020  .020   5.76   5.6   .027  .044  .022   - -
+CE CGS   14058 Compton - Long Beach & Palmer           33.898 118.209 215.0(198.7)  .025  .025   8.85   5.3   .062  .054  .025   - -
+CE CGS   14834 Hawthorne - Crenshaw & El Segundo       33.922 118.327 215.5(200.7)  .015  .015   5.51   4.6   .031  .036  .015   - -
+CI SCSN  MES   Mesa Elementary School                  34.263 119.096 215.8(212.6)  .019  .019  10.17   8.4   .021  .040  .032   - -
+CE CGS   21081 Amboy                                   34.559 115.744 215.9(184.6)  .027  .027   6.07   3.5   .075  .071  .028   - -
+CI SCSN  LTP   Paramount, I-710 and Hwy 91             33.881 118.176 216.0(199.3)  .034  .033   5.77   6.1   .082  .061  .021   - -
+CE CGS   25134 Camarillo - Arneill & Pickwick          34.221 119.041 216.4(212.1)  .011  .011   4.91   5.1   .020  .030  .015   - -
+NP NSMP  5499  CA:LA;LAX FS 80; Ground                 33.940 118.421 216.4(202.8)  .016  .016   6.42   5.8   .030  .038  .015   - -
+CE CGS   22170 Joshua Tree - Fire Station              34.131 116.315 216.4(184.7)  .044  .044   5.82   2.8   .112  .115  .014   - -
+CE CGS   13066 Anaheim - Brookhurst & Crescent         33.840 117.957 216.5(197.1)  .023  .023   4.15   2.8   .059  .047  .023   - -
+CE CGS   14988 Gardena - 135th & Van Ness              33.909 118.315 216.5(201.5)  .015  .014   5.31   4.4   .055  .024  .015   - -
+CE CGS   14872 Long Beach - Artesia & Orange           33.873 118.175 216.9(200.1)  .029  .029   5.83   6.6   .077  .055  .019   - -
+CI SCSN  HIW   Hole In The Wall                        35.040 115.384 216.9(189.3)  .026  .025   2.69   1.5   .045  .047  .006   - -
+CI SCSN  LMS   Lake Mathews Shore                      33.817 117.445 217.0(192.3)  .006  .005    .90   1.0   .010  .006  .002   - -
+CI SCSN  YEG2  Yeguas Mtn. 2                           35.438 119.963 217.3(202.5)  .011  .011   2.15   1.1   .025  .021  .009   - -
+NP NSMP  5403  Ventura; Oakview PacBell Facility       34.397 119.299 217.3(216.7)  .011  .011   3.71   3.5   .014  .027  .019   - -
+CE CGS   13888 Orange - Shaffer & Taft                 33.819 117.850 217.5(196.9)  .014  .014   4.35   2.5   .037  .025  .017   - -
+CI SCSN  DLA   Cerritos, State Rd and Del Amo Blvd.    33.848 118.096 217.9(200.1)  .027  .027   5.95   6.7   .056  .052  .021   - -
+CE CGS   14059 Compton - Hwy 91 & Wilmington           33.876 118.240 218.1(202.0)  .017  .017   4.40   5.3   .033  .038  .015   - -
+CE CGS   14830 Lakewood - Del Amo & Palo Verde         33.846 118.107 218.3(200.6)  .025  .025   7.18   6.8   .057  .045  .023   - -
+CI SCSN  BLA2  Black Rock Canyon Campground 2          34.069 116.390 218.6(187.1)  .008  .008   2.42   2.2   .034  .009  .008   - -
+CE CGS   14400 Hawaiian Gardens - 212th & Norwalk      33.837 118.072 218.7(200.6)  .025  .025   7.20   5.6   .061  .056  .026   - -
+CI SCSN  CZN   Cabazon                                 33.914 116.784 219.0(189.3)  .018  .018   2.91   2.6   .041  .030  .010   - -
+CI SCSN  PLS   Silverado, Pleasants Peak Radio Facility33.795 117.609 219.0(195.9)  .010  .010   1.57   1.3   .025  .016  .005   - -
+CE CGS   14935 Carson - Victoria & Avalon              33.867 118.262 219.5(203.7)  .011  .011   4.66   4.4   .027  .030  .014   - -
+CI SCSN  LAT   Latigo                                  34.044 118.776 219.5(210.7)  .006  .006   2.10   2.1   .013  .012  .006   - -
+CE CGS   25282 Camarillo                               34.208 119.080 219.7(215.7)  .015  .015   6.17   5.9   .024  .027  .029   - -
+CE CGS   14824 Los Angeles - Vermont & 182nd           33.868 118.290 220.2(204.7)  .014  .014   4.22   3.8   .039  .029  .013   - -
+CI SCSN  BRE   Barre Substation                        33.808 117.981 220.4(201.2)  .023  .023   4.61   3.1   .047  .055  .022   - -
+CI SCSN  Q0074 Warfield Avenue                         33.886 118.373 220.6(206.1)  .012  .012   5.30   5.8   .029  .022  .019   - -
+CE CGS   22512 Joshua Tree - Hwy 62 & Sierra           34.134 116.223 220.7(188.9)  .032  .032   5.88   2.8   .049  .060  .013   - -
+CE CGS   14936 Lakewood - Carson & Paramount           33.834 118.161 220.8(203.7)  .017  .017   5.70   5.1   .043  .036  .019   - -
+CI SCSN  OGC   Orange (Chapman)                        33.788 117.844 220.9(200.2)  .018  .017   3.87   2.3   .048  .033  .020   - -
+CE CGS   14242 Long Beach - Rancho Los Cerritos        33.840 118.195 220.9(204.2)  .024  .024   5.80   5.3   .067  .053  .024   - -
+CE CGS   13067 Orange - Chapman & Esplanade            33.786 117.809 220.9(199.8)  .020  .020   3.19   1.8   .038  .040  .014   - -
+CI SCSN  LAF   La Fresa                                33.869 118.331 221.2(206.2)  .012  .012   4.84   4.5   .028  .023  .015   - -
+CE CGS   14221 Manhattan Beach - Civic Center          33.888 118.410 221.5(207.4)  .013  .013   6.04   5.5   .036  .022  .019   - -
+CE CGS   12549 Desert Hot Springs - Karen & Pierson    33.964 116.564 221.5(190.8)  .022  .022   3.39   2.6   .050  .040  .012   - -
+CE CGS   13893 Orange - I5 & Chapman                   33.785 117.890 221.8(201.5)  .027  .027   4.04   2.6   .092  .045  .019   - -
+CE CGS   13875 Orange - Hwy 22/Hwy 55 Grounds          33.777 117.834 222.0(201.2)  .021  .021   3.19   1.6   .046  .032  .014   - -
+CI SCSN  Q0022 Wooded Hill Dr, Corona                  33.770 117.501 222.0(197.8)  .011  .011   1.14   1.2   .035  .015  .004   - -
+CE CGS   13886 Garden Grove - Chapman & Gilbert        33.791 117.968 222.1(202.7)  .027  .027   4.47   3.3   .084  .040  .022   - -
+CE CGS   14125 Long Beach - Municipal Airport          33.818 118.158 222.5(205.2)  .017  .017   5.14   4.4   .041  .051  .016   - -
+CI SCSN  MCT   Marine Combat Center 29palms            34.226 116.041 222.6(190.6)  .006  .006   2.24   2.3   .011  .008  .005   - -
+CE CGS   14847 Long Beach - Santa Fe Ave & I405        33.827 118.217 222.8(206.3)  .025  .025   6.06   5.1   .048  .040  .024   - -
+CE CGS   14127 Long Beach - 2-story ECOC Bldg          33.810 118.150 223.1(205.8)  .019  .019   4.79   4.2   .035  .045  .018   .024
+CI SCSN  SMM   Simmler                                 35.314 119.996 223.1(209.8)  .009  .009   1.56   1.0   .015  .034  .007   - -
+CE CGS   25324 Oxnard - Hwy 101/Santa Clara Rvr Bridge 34.243 119.191 223.1(220.5)  .018  .017   9.15  12.2   .025  .038  .030   .047
+CI SCSN  IVY   Ivy Glen                                33.760 117.477 223.2(198.8)  .015  .015   2.24   1.1   .046  .022  .004   - -
+CI SCSN  LBW1  Los Alimitos, I - 405 near Katella      33.798 118.088 223.2(205.2)  .019  .019   5.21   4.2   .053  .041  .022   - -
+CE CGS   25949 Oxnard - 4-story Hospital               34.216 119.155 223.3(220.1)  .015  .015  11.80  10.9   .017  .031  .041   .035
+CE CGS   25325 Oxnard - Hwy 101 Bridge Geotech Array   34.243 119.194 223.3(220.7)  .016  .016   9.44  10.9   .022  .036  .031   - -
+CE CGS   25246 Oxnard - Vineyard & Esplanade           34.229 119.175 223.4(220.5)  .015  .014   9.07   9.7   .016  .029  .039   - -
+CE CGS   24396 Malibu - Point Dume                     34.012 118.802 223.8(215.0)  .010  .010   2.30   2.0   .021  .019  .012   - -
+CI SCSN  MPP   Mcpherson Peak                          34.888 119.814 223.8(217.0)  .006  .006   1.38   1.9   .014  .013  .004   - -
+CI SCSN  DEV   N. Palm Springs, Power Line & Diablo Rds33.936 116.578 223.8(193.2)  .015  .015   2.94   2.7   .047  .024  .009   - -
+CE CGS   12149 Desert Hot Springs - Fire Station       33.962 116.510 223.9(193.0)  .031  .031   3.86   2.4   .057  .071  .012   - -
+CE CGS   14868 Long Beach - Willow & Cherry            33.806 118.164 223.9(206.7)  .015  .015   4.86   3.9   .034  .030  .014   - -
+CE CGS   25573 Ventura - County Hospital Grnds A       34.279 119.254 224.0(222.3)  .026  .025   8.06  10.6   .030  .038  .022   - -
+CE CGS   14870 Long Beach - Los Coyotes & Stearns      33.798 118.137 224.1(206.6)  .016  .016   4.83   4.1   .050  .027  .019   - -
+CE CGS   25744 Ventura - 4-story Hospital              34.276 119.253 224.1(222.3)  .028  .028   9.01  10.5   .032  .043  .026   .071
+CE CGS   13884 Garden Grove - Hwy 22 & Harbor Blvd     33.767 117.918 224.1(204.1)  .024  .024   5.44   3.8   .067  .049  .023   - -
+CE CGS   13611 Santa Ana - 1-story Hospital            33.755 117.833 224.5(203.6)  .027  .027   5.59   2.5   .083  .046  .017   .028
+NP NSMP  1576  Long Valley; Fire Station               37.570 118.753 224.8(195.1)  .003  .003   1.75   2.1   .005  .008  .004   - -
+CI SCSN  MSJ   Mt. San Jacinto Campus                  33.808 116.968 225.1(196.7)  .022  .022   5.93   3.3   .087  .057  .024   - -
+CE CGS   14530 Torrance - Hawthorne & Torrance         33.838 118.356 225.2(210.3)  .010  .009   4.48   4.5   .020  .014  .014   - -
+NP NSMP  5411  Torrance; Fire Station No. 1            33.831 118.329 225.2(209.9)  .009  .009   3.98   3.6   .030  .024  .012   - -
+CE CGS   13889 Santa Ana - I5 & 4th St                 33.748 117.844 225.4(204.6)  .025  .025   3.72   2.0   .054  .050  .014   - -
+CI SCSN  LMH   Lake Mathews Hills                      33.744 117.391 225.5(200.3)  .005  .005    .80   1.0   .014  .004  .002   - -
+AZ IGPP  CSLB  Cal State Long Beach  Long Beach  CA  US33.780 118.112 225.6(207.8)  .029  .030   9.60   7.8   .066  .068  .034   - -
+CE CGS   13885 Garden Grove - Brookhurst & Westminster 33.757 117.956 225.6(206.0)  .019  .019   5.03   3.5   .042  .037  .022   - -
+CE CGS   14846 Carson - Main & Sepulveda               33.811 118.277 226.0(210.0)  .013  .013   3.67   3.5   .025  .023  .013   - -
+NP NSMP  5106  CA Long Beach - VAMC, Bldg 126          33.777 118.119 226.1(208.3)  .012  .011   4.64   3.7   .039  .041  .016   .022
+CE CGS   14241 Long Beach - Recreation Park            33.777 118.133 226.3(208.7)  .016  .016   4.54   4.1   .022  .031  .017   - -
+CI SCSN  NWH   Irvine Usd, Northwood High              33.733 117.751 226.3(204.5)  .019  .019   2.08   1.2   .045  .027  .009   - -
+CI SCSN  STS   State Street                            33.790 118.199 226.3(209.4)  .019  .019   5.52   4.0   .063  .047  .019   - -
+CE CGS   14002 Long Beach - 15th & Gundry              33.785 118.173 226.4(209.2)  .017  .017   4.64   3.7   .033  .053  .019   - -
+CE CGS   13890 Santa Ana - 1st & Franklin              33.742 117.894 226.5(206.2)  .021  .021   5.93   4.3   .050  .051  .020   - -
+CE CGS   25339 Ventura - 12-story Hotel                34.276 119.293 226.6(225.1)  .021  .021   7.51   9.1   .029  .053  .024   .073
+CE CGS   25340 Ventura - Harbor & California           34.276 119.294 226.7(225.2)  .020  .020   7.52   9.1   .032  .049  .024   - -
+CI SCSN  Q0038 Cloudburst Drive, Corona Ca 92883       33.731 117.428 226.7(201.9)  .013  .013   1.80   1.1   .040  .038  .003   - -
+CI SCSN  SLR   Banning, Hwy 243, San Jacinto Mtns.     33.834 116.797 227.0(197.5)  .011  .010   1.98   1.8   .025  .017  .006   - -
+CI SCSN  LVY   Levy                                    34.174 119.156 227.0(223.4)  .016  .015   9.74   7.9   .020  .038  .033   - -
+CE CGS   25135 Oxnard - Saviers & Hill                 34.186 119.179 227.3(223.9)  .017  .017  12.69  12.4   .020  .036  .048   - -
+CE CGS   12673 San Jacinto - CDF Fire Station          33.787 116.959 227.6(199.1)  .035  .036   6.46   4.9   .096  .049  .022   - -
+CE CGS   12102 San Jacinto - CDF Fire Station 25       33.787 116.959 227.6(199.2)  .038  .038   6.58   4.9   .100  .050  .022   - -
+CE CGS   14038 Torrance - Pac. Coast Hwy & Calle Mayor 33.813 118.370 228.2(213.3)  .011  .011   3.46   2.6   .029  .018  .012   - -
+CE CGS   14560 Long Beach - City Hall Grounds [Abandone33.769 118.197 228.6(211.6)  .015  .015   5.52   4.6   .026  .042  .019   - -
+CE CGS   14871 Long Beach - Ocean Blvd & Cherry        33.763 118.168 228.6(211.3)  .014  .014   4.99   3.9   .036  .032  .015   - -
+CE CGS   14533 Long Beach - City Hall [Demolished]     33.768 118.195 228.6(211.6)  .015  .015   5.01   3.4   .021  .033  .018   .034
+CE CGS   14831 Lomita - Narbonne & Pacific Coast Hwy   33.792 118.320 229.1(213.6)  .010  .010   3.50   2.8   .023  .014  .012   - -
+CI SCSN  VLY   Valley                                  33.736 117.157 229.2(202.2)  .008  .008   1.26   1.1   .021  .020  .004   - -
+CE CGS   13891 Santa Ana - Warner & Greenville         33.716 117.904 229.5(209.3)  .019  .019   4.51   3.3   .043  .040  .018   - -
+CE CGS   14006 Huntington Beach - Edinger & Gothard    33.727 118.001 229.5(210.3)  .036  .036   5.78   4.0   .094  .062  .022   - -
+CI SCSN  CHI   Channel Island                          34.182 119.222 230.2(227.3)  .020  .019  13.00  15.7   .024  .033  .035   - -
+CE CGS   13093 Hemet - Cawston & Devonshire            33.751 117.015 230.2(202.2)  .015  .015   1.91   1.3   .037  .028  .005   - -
+CI SCSN  WWC   West Wide Canyon                        33.941 116.409 230.3(199.0)  .010  .010   2.49   2.1   .023  .017  .008   - -
+CE CGS   14007 Huntington Beach - Springdale & Heil    33.723 118.026 230.4(211.4)  .033  .033   4.26   3.8   .096  .051  .020   - -
+CE CGS   25147 Point Mugu - Naval Air Station          34.112 119.119 230.4(225.7)  .012  .012   3.15   3.7   .035  .027  .012   - -
+CI SCSN  QLC   Quail Canyon                            35.041 119.974 230.4(220.7)  .007  .008   1.26   1.1   .016  .015  .007   - -
+BK BDSN  WINE  Golden State Vintners, Fresno, CA USA   36.670 119.908 230.4(202.4)  .010  .010   4.22   4.1   .013  .007  .005   - -
+CI SCSN  LDF   Lanfair                                 35.131 115.184 230.4(204.1)  .012  .012   2.79   1.4   .025  .033  .007   - -
+CI SCSN  SAN   Santa Ana, Bristol St & Macaurthur Blvd 33.704 117.886 230.6(210.1)  .020  .020   4.52   3.1   .053  .036  .019   - -
+CI SCSN  Q0034 Viaggio Lane, Foothill Ranch Ca 92610   33.690 117.655 230.7(208.0)  .012  .012   1.67   1.3   .026  .028  .006   - -
+CE CGS   25130 Oxnard - Victoria & Channel Islands Blvd34.175 119.226 230.9(227.9)  .017  .017  12.88  15.1   .023  .040  .033   - -
+BK BDSN  KCC   Kaiser Creek                            37.324 119.319 231.2(200.5)  .002  .002   1.20   1.5   .004  .003  .002   - -
+CI SCSN  JTH   Joshua Tree National Park Headquarters  34.126 116.038 231.5(199.5)  .025  .024   3.92   3.1   .058  .038  .024   - -
+CE CGS   25131 Port Hueneme - 2nd & Clara              34.151 119.198 231.5(227.9)  .013  .013   8.87  10.4   .016  .023  .032   - -
+CI SCSN  CFD   Carpinteria Fd                          34.399 119.516 231.6(231.4)  .016  .016   4.59   3.7   .020  .044  .022   - -
+CE CGS   12266 Hemet - 1-story Library                 33.748 116.967 231.6(203.3)  .015  .015   1.83   1.5   .055  .031  .005   .027
+CI SCSN  Q0018 Whippoorwill Ave, Fountain Valley       33.696 117.953 232.3(212.5)  .038  .038   5.75   3.3   .082  .063  .025   - -
+CE CGS   14406 Los Angeles - Vincent Thomas Bridge     33.749 118.272 232.4(216.1)  .015  .015   4.57   3.5   .043  .041  .016   .120
+CE CGS   13208 Irvine - 2-story Caltrans TMC Bldg      33.678 117.754 232.4(210.6)  .023  .023   4.21   1.8   .067  .045  .015   .052
+CI SCSN  RKMO  Ramakrishna Monastery                   33.674 117.609 232.4(209.2)  .021  .021   2.21   1.2   .065  .043  .006   - -
+CE CGS   13220 Irvine - I5 & Hwy 133                   33.678 117.753 232.4(210.6)  .028  .028   5.18   1.9   .080  .049  .018   - -
+WR CDWR  FRI   Friant Dam (frmly UCB)                  36.992 119.708 232.8(203.1)  .006  .006   1.21   1.3   .014  .003  .002   - -
+CE CGS   12923 Hemet - Acacia & Stanford               33.745 116.932 232.8(204.2)  .020  .020   4.31   2.4   .043  .048  .016   - -
+NP NSMP  5288  Huntington Beach; Springdale            33.697 118.025 233.2(214.1)  .017  .017   5.04   3.3   .044  .046  .015   - -
+CI SCSN  LLS   Fountain Valley, I-5 at Santa Ana River 33.684 117.943 233.4(213.5)  .023  .023   5.85   3.2   .045  .049  .022   - -
+CI SCSN  STG   Santiago                                33.664 117.769 234.1(212.4)  .019  .019   2.99   1.5   .045  .032  .009   - -
+CI SCSN  MLAC  Mammoth                                 37.630 118.836 234.2(204.3)  .011  .010   2.56   2.7   .021  .021  .009   - -
+NC NCSN  MCO   Convict Moraine #3                      37.619 118.863 234.3(204.3)  .006  .006   2.28   2.9   .011  .009  .013   - -
+CE CGS   14535 San Pedro - 5-story Hospital            33.738 118.305 234.4(218.4)  .008  .008   1.97   1.3   .018  .022  .031   .029
+CE CGS   13887 Huntington Beach - Adams & Bushard      33.676 117.963 234.6(214.8)  .021  .021   5.10   3.4   .049  .035  .017   - -
+CE CGS   13441 Irvine - Alton & Sand Canyon            33.660 117.775 234.6(212.9)  .021  .021   2.19   1.4   .062  .031  .008   - -
+CE CGS   13439 Irvine - 6-story Hospital               33.659 117.775 234.7(213.1)  .021  .021   3.03   1.4   .067  .030  .008   .071
+CI SCSN  MIS   Mira Catalina School                    33.740 118.335 235.0(219.3)  .009  .009   1.46   1.2   .031  .013  .005   - -
+CE CGS   12299 Palm Springs - 4-story Hospital         33.839 116.542 235.1(204.5)  .013  .013   2.89   2.2   .026  .036  .012   .062
+CI SCSN  HMT2  Hemet 2                                 33.708 117.002 235.1(207.1)  .006  .005   1.18   1.2   .017  .005  .004   - -
+CE CGS   21514 Twentynine Palms - Jade & Amboy Rd      34.166 115.904 235.8(203.8)  .019  .019   3.91   3.6   .037  .072  .007   - -
+CI SCSN  ELS2  Elsinore 2                              33.649 117.426 235.8(210.9)  .004  .004    .85    .9   .015  .005  .002   - -
+CI SCSN  PSD   Palm Springs Desert Museum              33.824 116.550 236.2(205.7)  .003  .003   1.63   1.9   .008  .006  .006   - -
+NN UNR   NELL  Nellis AFB  LLNL/ANSS BB+SM w84gm       36.219 115.037 236.4(223.4)  .018  .018   3.93   2.0   .044  .037  .020   - -
+CI SCSN  QAD   Qad Inc.                                34.424 119.609 236.4(236.0)  .010  .010   3.09   2.9   .011  .021  .021   - -
+CI SCSN  RPV   Rancho Palos Verdes                     33.743 118.404 236.5(221.6)  .011  .011   1.66   1.2   .035  .019  .005   - -
+CE CGS   13329 Irvine - 8-story UCI Engineering Bldg   33.645 117.841 236.7(215.7)  .007  .007   1.47   1.3   .026  .015  .005   .031
+CI SCSN  FMP   Fort Macarthur Park                     33.713 118.294 236.9(220.7)  .007  .007   1.20   1.2   .015  .016  .004   - -
+CE CGS   12025 Palm Springs - Airport                  33.829 116.513 237.1(206.4)  .017  .017   3.88   2.7   .026  .045  .022   - -
+BK BDSN  THIS  South End of Cholame Valley, Shandon, CA35.724 120.228 237.9(218.9)  .009  .009   1.58    .8   .030  .017  .004   - -
+CI SCSN  DAN   Danby                                   34.637 115.381 237.9(207.7)  .014  .014   2.07   2.0   .041  .025  .007   - -
+NC NCSN  MCB   Casa Benchmark                          37.644 118.897 238.2(208.2)  .012  .012   2.41   1.8   .023  .044  .004   - -
+CI SCSN  IDY   Idyllwild                               33.746 116.715 238.6(208.9)  .009  .009   1.21   1.4   .018  .007  .003   - -
+CE CGS   13160 Newport Beach - Irvine Ave Fire Sta     33.634 117.903 238.6(218.1)  .017  .017   3.59   2.6   .042  .030  .014   - -
+CI SCSN  POB2  Polly Butte 2                           33.687 116.924 239.2(210.7)  .013  .013   1.42   1.3   .031  .014  .004   - -
+NC NCSN  PAGB  Antelope Grade                          35.731 120.250 239.8(220.8)  .005  .005   1.22    .7   .014  .014  .003   - -
+CE CGS   12108 Cathedral City - Ramon & Desert Vista   33.815 116.461 240.6(209.7)  .020  .020   4.63   3.1   .030  .055  .031   - -
+CE CGS   54331 Mammoth Lakes - 1-story Hospital        37.644 118.963 241.1(210.9)  .005  .005   1.76   2.4   .012  .008  .006   .024
+CI SCSN  DGR   Domenigoni Reservoir                    33.650 117.009 241.3(213.3)  .005  .005    .98    .9   .011  .006  .003   - -
+CE CGS   13877 Newport Beach - Balboa Island           33.605 117.890 241.5(220.9)  .020  .020   3.60   1.6   .051  .035  .013   - -
+CE CGS   13097 Wildomar - Palomar & Gruwell            33.604 117.279 242.0(216.0)  .016  .015   2.03   1.3   .045  .034  .006   - -
+NC NCSN  MDH   Mammoth Hole surface                    37.680 118.909 242.1(212.2)  .008  .008   2.96   2.7   .020  .021  .009   - -
+CI SCSN  KYV   Keys View                               33.925 116.173 242.6(210.9)  .007  .006   1.88   2.2   .009  .014  .006   - -
+CE CGS   36554 Parkfield - Stone Corral Array, SW2     35.851 120.283 242.7(222.3)  .008  .008   1.52    .8   .015  .019  .008   - -
+NC NCSN  MLI   Lincoln Peak                            37.637 119.018 242.9(212.7)  .017  .017   2.17   2.2   .034  .044  .005   - -
+NC NCSN  MMLB  Mammoth Lakes                           37.659 118.979 243.2(213.1)  .011  .010   2.71   2.5   .026  .019  .005   - -
+CI SCSN  MUR   Jodan Farms Nursery, Murrieta           33.600 117.195 243.5(216.9)  .037  .036   2.26   1.1   .191  .006  .003   - -
+CE CGS   25749 Santa Barbara - San Roque Canyon Bridge 34.450 119.735 243.6(242.8)  .007  .007   2.48   1.9   .012  .017  .016   .024
+NC NCSN  MCY   Mammoth Mountain McCoy                  37.643 119.029 244.0(213.8)  .005  .005   1.57   1.9   .010  .009  .003   - -
+CI SCSN  MGE   Mirage                                  33.818 116.369 244.0(212.9)  .026  .026   4.86   4.0   .034  .041  .021   - -
+CI SCSN  MMC   Pacific Marine Mammal Center            33.573 117.763 244.1(222.2)  .021  .021   1.61   1.1   .061  .012  .004   - -
+NC NCSN  MDY   Dry Creek                               37.658 119.012 244.7(214.5)  .012  .012   2.65   2.0   .018  .027  .005   - -
+CI SCSN  BAC   Bachelor Mountain                       33.612 117.041 244.7(217.1)  .006  .006    .94   1.0   .011  .004  .003   - -
+CI SCSN  CWP   Ronald W. Caspers Wilderness Park       33.558 117.558 245.4(221.6)  .015  .014   1.81   1.1   .037  .015  .008   - -
+CE CGS   12953 Rancho Mirage - Gerald Ford & Bob Hope  33.787 116.410 245.4(214.5)  .016  .016   4.19   3.3   .031  .049  .031   - -
+CE CGS   21513 Twentynine Palms - Zelda & Amboy Rd     34.166 115.747 245.5(213.6)  .030  .030   6.34   3.6   .051  .073  .017   - -
+CE CGS   25423 Santa Barbara - Hwy 101 & State         34.438 119.755 245.9(245.0)  .013  .013   2.49   2.0   .019  .027  .009   - -
+CI SCSN  SDD   Saddleback                              33.553 117.662 246.0(223.2)  .023  .023   4.50   2.2   .041  .075  .016   - -
+CI SCSN  EOC   Emergency Office Center                 34.450 119.769 246.1(245.1)  .009  .009   2.22   2.0   .011  .027  .009   - -
+CI SCSN  FIG   Figueroa Mountain                       34.728 119.988 246.2(240.2)  .004  .004   1.42   2.4   .006  .011  .005   - -
+NC NCSN  MINS  Minaret Summit                          37.654 119.061 246.5(216.2)  .003  .003   1.03   1.5   .008  .007  .002   - -
+AZ IGPP  RDM   Red Mountain  Riverside Co  CA  USA     33.630 116.848 247.1(218.3)  .006  .006   1.07   1.0   .014  .005  .003   - -
+CE CGS   12284 Palm Desert - 4-story Office Bldg       33.762 116.406 248.0(217.1)  .014  .014   3.58   2.1   .029  .033  .014   .042
+CI SCSN  GFF   Goffs                                   34.924 115.073 248.1(220.4)  .010  .010   1.88   1.6   .023  .013  .007   - -
+CI SCSN  Q0005 Osgood Ct. Laguna Beach                 33.528 117.768 249.1(227.3)  .013  .013   1.79   1.1   .036  .026  .004   - -
+CI SCSN  Q0071 Hombre Lane, Murrieta Ca                33.535 117.334 249.1(223.6)  .004  .004    .94    .9   .018  .005  .003   - -
+CE CGS   12952 Palm Desert - Country Club & Portola    33.758 116.374 249.8(218.8)  .017  .017   4.03   3.2   .023  .047  .030   - -
+BK BDSN  TSCN  Shell Creek North, Shandon, CA, USA     35.544 120.348 250.2(233.1)  .023  .023   5.35   5.1   .053  .078  .030   - -
+CE CGS   12550 Palm Desert - 38th & Washington         33.774 116.303 251.2(220.0)  .024  .024   6.86   5.3   .041  .062  .026   - -
+NN UNR   BLDCY Keys Dr.  Boulder City  NV              36.005 114.826 251.7(235.5)  .004  .004   1.45   1.7   .008  .007  .003   - -
+CI SCSN  IDO   Indio Hill                              33.797 116.222 252.6(221.1)  .010  .010   2.38   2.8   .017  .026  .009   - -
+CI SCSN  CSH   Camp Scherman                           33.644 116.596 253.1(223.0)  .006  .006   1.85   1.9   .016  .005  .004   - -
+CE CGS   13070 San Juan Capistrano - I5 & La Novia     33.485 117.669 253.5(230.7)  .024  .024   4.18   2.3   .057  .061  .018   - -
+BK BDSN  TCHL  Clark Property, Shandon, CA, USA        35.688 120.401 253.6(234.9)  .010  .010   1.59   1.3   .024  .019  .007   - -
+CI SCSN  USB   UC Santa Barbara                        34.413 119.843 254.0(252.9)  .008  .008   3.08   3.0   .015  .029  .013   - -
+CE CGS   25091 Santa Barbara - UCSB Goleta             34.423 119.853 254.1(252.8)  .014  .014   3.60   2.4   .021  .028  .020   - -
+CE CGS   25213 Santa Barbara - 3-story UCSB Office Bldg34.415 119.847 254.1(253.0)  .011  .011   3.38   2.4   .017  .033  .012   .015
+CE CGS   25392 Santa Barbara - UCSB Grounds            34.415 119.847 254.2(253.0)  .009  .009   3.16   2.4   .013  .032  .012   - -
+CI SCSN  IDQ   Indio Quarry                            33.768 116.239 254.6(223.2)  .014  .014   4.39   3.4   .025  .031  .016   - -
+CI SCSN  MOR   Moraga                                  33.504 117.140 254.8(228.0)  .014  .014   3.23   2.3   .050  .022  .011   - -
+CE CGS   13172 Temecula - 6th & Mercedes               33.497 117.151 255.4(228.6)  .020  .020   2.66   1.4   .046  .045  .008   - -
+CE CGS   36138 Parkfield - Fault Zone 12               35.898 120.433 256.4(235.6)  .008  .008   2.09   1.1   .014  .020  .008   - -
+CE CGS   36534 Parkfield - 1-story Fire Station        35.899 120.433 256.5(235.6)  .009  .009   1.86   1.0   .014  .020  .008   .009
+AZ IGPP  CRY   Cary Ranch  Anza  CA  USA               33.565 116.737 257.0(227.7)  .006  .005   1.35   1.3   .014  .010  .002   - -
+CI SCSN  PGA   Pechanga                                33.491 117.064 257.4(230.1)  .016  .016   2.85   1.5   .053  .025  .010   - -
+AZ IGPP  WMC   Walmic Ranch  Anza  CA  USA             33.574 116.675 257.9(228.3)  .010  .010   1.45   1.7   .023  .011  .003   - -
+CI SCSN  RSI   Rancho Sisquoc                          34.852 120.209 258.2(249.6)  .007  .007   1.97   2.0   .012  .017  .009   - -
+CE CGS   46314 Cantua Creek School                     36.503 120.321 258.2(232.0)  .010  .010   2.28   1.9   .021  .016  .010   - -
+CI SCSN  SYN   Santa Ynez Fs #32                       34.607 120.070 259.3(254.2)  .006  .006   2.70   2.4   .009  .013  .015   - -
+AZ IGPP  SMER  Santa Margarita Ecological Reserve  CA  33.458 117.171 259.4(232.8)  .003  .003    .73    .8   .010  .003  .002   - -
+NC NCSN  PHOB  Hog Canyon                              35.867 120.480 260.5(239.9)  .007  .007   1.35    .8   .015  .017  .007   - -
+CI SCSN  PMD   Palm Desert                             33.648 116.378 260.6(229.8)  .003  .003   1.38   2.0   .007  .004  .004   - -
+CI SCSN  MTA   Margarita Mountains                     33.427 117.379 260.7(235.6)  .005  .005   1.15   1.0   .012  .006  .003   - -
+NP NSMP  5241  Cahuilla Valley; Fire Station           33.512 116.800 260.9(232.0)  .009  .009   1.89   1.6   .026  .010  .005   - -
+AZ IGPP  PFO   Pinyon Flats Observatory  CA  USA       33.612 116.459 261.2(230.7)  .005  .004   1.46   1.4   .006  .009  .007   - -
+CE CGS   12951 La Quinta - Bermudas & Durango          33.671 116.301 261.4(230.3)  .018  .018   2.48   2.3   .045  .039  .006   - -
+CE CGS   12092 Radec - Sage & Cottonwood School Rds    33.482 116.911 261.5(233.3)  .016  .016   2.66   1.6   .049  .022  .010   - -
+CE CGS   13524 San Clemente - I5 & Avenida Magdalena   33.411 117.590 261.6(238.1)  .016  .016   2.42   1.4   .029  .034  .010   - -
+AZ IGPP  SND   Jim Saunders Place  Anza  CA  USA       33.552 116.613 262.1(232.3)  .010  .011   2.30   2.0   .029  .015  .003   - -
+CI SCSN  SOC   San Onofre Canyon                       33.388 117.580 264.2(240.6)  .015  .015   2.23   1.3   .031  .033  .010   - -
+CI SCSN  SQC   Sisquoc - Fs #23                        34.866 120.294 264.8(255.6)  .006  .006   1.87   2.2   .015  .011  .008   - -
+CE CGS   12076 Coachella - 6th & Palm                  33.678 116.178 266.0(234.7)  .023  .022   7.54   5.7   .028  .049  .029   - -
+BK BDSN  PKD   Bear Valley Ranch, Parkfield, CA, USA   35.945 120.542 266.5(245.1)  .002  .002    .74    .7   .003  .007  .003   - -
+AZ IGPP  BZN   Buzz Northerns Place  Anza  CA  USA     33.492 116.667 266.7(237.2)  .007  .007   2.08   2.0   .029  .010  .005   - -
+AZ IGPP  FRD   Ford Ranch  Anza  CA  USA               33.495 116.602 268.4(238.6)  .005  .004   1.62   1.6   .008  .009  .003   - -
+CI SCSN  SMW   Santa Maria Wineman                     35.011 120.410 268.9(257.6)  .003  .003   1.05   1.3   .005  .009  .007   - -
+CI SCSN  BUE   Buellton - Fs #31                       34.613 120.197 269.1(263.2)  .008  .008   2.52   2.5   .009  .019  .015   - -
+CI SCSN  PALA  Pala                                    33.389 117.032 269.2(241.7)  .015  .015   1.53   1.1   .039  .021  .004   - -
+CI SCSN  LCP   Los Alamos County Park                  34.736 120.280 269.6(261.9)  .010  .009   3.45   3.5   .014  .019  .013   - -
+CI SCSN  PHL   Park Hill                               35.408 120.546 270.0(254.1)  .006  .005    .46    .8   .019  .004  .002   - -
+CI SCSN  CPT2  Camp Pendleton 2                        33.342 117.325 270.5(245.0)  .010  .010   1.27   1.0   .042  .007  .002   - -
+AZ IGPP  TRO   Toro Peak,Riverside Co,CA,USA           33.523 116.426 271.4(241.0)  .015  .015   3.01   3.0   .034  .028  .010   - -
+CI SCSN  NJQ   Nojoqui County Park                     34.534 120.177 272.0(266.9)  .007  .006   1.86   1.9   .010  .018  .006   - -
+NC NCSN  PSM   Smith Mountain                          36.069 120.596 272.5(250.1)  .007  .007   1.19   1.4   .016  .014  .008   - -
+CI SCSN  CIA   Catalina Isl Airport                    33.402 118.415 273.1(256.8)  .003  .003   1.02   1.1   .007  .006  .004   - -
+CI SCSN  THM   Thermal Canyon                          33.651 116.077 273.3(241.8)  .009  .009   3.17   3.2   .014  .019  .009   - -
+CI SCSN  TOR   Toro Canyon                             33.575 116.226 274.0(242.9)  .005  .005   2.24   2.5   .009  .009  .005   - -
+NP NSMP  5444  CA: Thermal; Buchanan Steet             33.635 116.095 274.0(242.5)  .016  .016   6.14   5.0   .021  .041  .018   - -
+CI SCSN  PLM   Palomar                                 33.354 116.863 276.4(248.1)  .004  .004   2.02   1.4   .012  .007  .006   - -
+CI SCSN  SMR   Santa Margarita Ranch                   35.377 120.612 276.6(260.8)  .002  .002    .58    .9   .005  .005  .003   - -
+PG PG&E  MLD   Mt. Lowe                                35.322 120.603 276.9(261.7)  .007  .007   1.00    .5   .017  .019  .004   - -
+CI SCSN  CTC   Cactus City, Airway beacon              33.655 115.990 277.0(245.4)  .012  .012   3.10   2.4   .021  .036  .005   - -
+CI SCSN  RHR   Rawhide Ranch                           33.290 117.176 277.8(251.3)  .004  .004    .91    .9   .006  .005  .002   - -
+CI SCSN  GFS   Santa Barbara County Fire Station #18   34.477 120.214 278.2(273.5)  .003  .003   1.41   2.1   .005  .006  .005   - -
+CI SCSN  AVC   Avalon Canyon                           33.333 118.335 278.6(261.4)  .003  .003    .74   1.0   .008  .004  .003   - -
+BK BDSN  LEGD  Le Grand, CA                            37.214 120.149 279.1(249.4)  .007  .007   1.06   1.0   .008  .007  .001   - -
+CI SCSN  CTW   Cottonwood Mtns                         33.677 115.872 280.9(249.1)  .009  .009   2.81   2.7   .022  .026  .005   - -
+BK BDSN  LCUV  Le Cuvier Winery, Paso Robles, CA USA   35.652 120.732 283.8(265.1)  .007  .007    .86    .6   .011  .006  .002   - -
+CE CGS   36712 Templeton - Hospital Grounds            35.556 120.722 283.8(266.0)  .007  .007   1.05    .4   .022  .014  .004   - -
+AZ IGPP  LVA2  Lost Valley Scout Camp,CA,USA           33.352 116.561 284.6(254.9)  .007  .006   2.51   2.7   .011  .025  .007   - -
+CI SCSN  LOC   Lompoc Fs #51                           34.691 120.447 285.5(277.5)  .007  .007   2.63   2.8   .007  .011  .012   - -
+CI SCSN  VCP   Valley Center-Pauma Unified School Distr33.239 117.021 285.6(258.3)  .002  .002    .71    .9   .004  .005  .003   - -
+CI SCSN  SBI   Santa Barbara Island                    33.480 119.030 285.8(275.4)  .002  .002   1.28   1.4   .005  .006  .005   - -
+NP NSMP  5430  Oceanside; Fire Station No. 1           33.198 117.378 286.0(260.9)  .004  .004   1.78   1.4   .006  .008  .006   - -
+CI SCSN  IRM   Iron Mountain Pumping Station           34.157 115.145 286.8(255.5)  .006  .005   1.18   1.3   .011  .008  .004   - -
+PG PG&E  EFD   Emergency Op Facility                   35.320 120.725 287.8(272.4)  .002  .002    .58    .8   .004  .003  .004   - -
+CI SCSN  NSS2  North Shore Salton Sea 2                33.556 115.946 288.6(257.0)  .007  .007   2.48   2.9   .011  .015  .008   - -
+CI SCSN  HAY   Hayfield                                33.707 115.639 290.8(258.8)  .004  .004   1.69   2.3   .012  .008  .003   - -
+PG PG&E  PSD   Point Sal digital                       34.902 120.622 291.2(280.3)  .002  .002   1.11   1.4   .003  .004  .003   - -
+CI SCSN  LKH   Lake Henshaw                            33.236 116.759 291.5(262.8)  .010  .010   1.86   1.4   .028  .017  .005   - -
+CI SCSN  GOR   Green Oak Ranch                         33.154 117.229 292.2(266.1)  .003  .003    .81    .9   .005  .003  .002   - -
+NC NCSN  PMPB  Monarch Peak                            36.216 120.801 293.0(269.4)  .004  .004   1.23    .8   .006  .015  .005   - -
+CI SCSN  NEE2  Needles Airport                         34.768 114.619 293.1(265.3)  .011  .011   1.41   1.1   .023  .021  .004   - -
+CE CGS   11217 North Shore - Hwy 111 & Parkside Dr     33.511 115.920 294.1(262.5)  .011  .011   3.96   3.5   .020  .030  .015   - -
+PG PG&E  SHD   San Luis Hill                           35.168 120.761 294.6(280.6)  .001  .001    .66    .7   .002  .003  .003   - -
+PG PG&E  LMD   Little Morro Creek dig                  35.380 120.825 295.6(279.4)  .001  .001    .64   1.0   .002  .003  .003   - -
+CI SCSN  GATR  Ground To Air Transmit And Receive Compo34.553 120.502 297.0(290.0)  .006  .006   2.08   2.5   .009  .014  .010   - -
+NC NCSN  MBUB  Mount Bullion                           37.559 120.076 297.5(267.0)  .003  .003   1.30   1.5   .004  .003  .001   - -
+CI SCSN  BOR   Borrego Springs                         33.268 116.417 297.9(267.8)  .005  .004   2.04   2.2   .007  .008  .005   - -
+CI SCSN  MTG   Mataguay Scout Camp                     33.199 116.647 298.2(269.1)  .006  .006   1.37   1.9   .016  .006  .003   - -
+NC NCSN  PSAB  San Ardo                                36.025 120.889 298.4(276.4)  .005  .005   1.53    .7   .007  .014  .009   - -
+PG PG&E  LSD   Los Osos digital                        35.297 120.843 298.8(283.4)  .005  .005   1.42   1.0   .006  .014  .005   - -
+CI SCSN  SLB   Salton Beach                            33.485 115.866 299.1(267.4)  .005  .005   1.55   2.9   .007  .008  .006   - -
+PG PG&E  DCD   Diablo Creek digital                    35.212 120.841 300.6(286.0)  .002  .002    .51    .5   .002  .003  .004   - -
+CI SCSN  SRI   Santa Rosa Island                       33.979 120.079 301.4(301.1)  .004  .003   1.12   1.6   .012  .006  .005   - -
+AZ IGPP  BSAP  Borrego Springs Airport  CA  USA        33.260 116.322 302.1(271.7)  .014  .014   5.77   3.9   .024  .030  .019   - -
+AZ IGPP  TUBB  Tubb Canyon  CA  USA                    33.210 116.409 304.2(274.2)  .004  .003   1.50   1.3   .009  .005  .002   - -
+CI SCSN  BC3   Big Chuckawalla Mtns                    33.655 115.454 306.0(274.0)  .004  .004   1.67   1.9   .007  .008  .004   - -
+CI SCSN  LUS   Lusardi Creek County Preserve           33.014 117.163 308.3(282.0)  .002  .002    .74    .8   .008  .003  .002   - -
+BK BDSN  BUCR  Buckhorn Ranch, UC Merced, Coulterville,37.673 120.150 310.7(280.2)  .003  .003    .86   1.1   .004  .003  .001   - -
+CI SCSN  SLH   Sleepy Hollow                           33.193 116.254 311.4(280.9)  .010  .010   2.71   2.3   .013  .019  .013   - -
+CI SCSN  JEM   Julian Eagle Mine                       33.081 116.598 312.1(283.0)  .005  .005   1.32   1.7   .009  .008  .004   - -
+CI SCSN  DPP   Dos Picos County Park                   32.999 116.942 313.2(285.7)  .003  .003    .74    .9   .006  .004  .002   - -
+CI SCSN  SAL   Salton City                             33.280 115.986 313.4(282.1)  .014  .014   3.16   2.5   .022  .025  .010   - -
+CI SCSN  SMI   San Miguel Island                       34.038 120.351 316.5(315.5)  .001  .001    .91   1.1   .002  .002  .003   - -
+PG PG&E  CSD   Cambria Substation dig                  35.600 121.094 316.9(298.4)  .001  .001    .64    .6   .003  .004  .002   - -
+CE CGS   12478 Julian - Shelter Valley FS Hwys 78 & S2 33.077 116.438 317.1(287.4)  .016  .016   2.67   2.0   .024  .033  .007   - -
+CI SCSN  BOM   Bombay Beach                            33.365 115.730 317.2(285.5)  .011  .011   3.47   3.5   .014  .033  .014   - -
+NP NSMP  5271  Bombay Beach; Fire Station              33.353 115.733 318.1(286.4)  .009  .008   3.27   3.1   .013  .019  .016   - -
+AZ IGPP  TONN  Tonner Ranch  Anza  CA  USA             33.144 116.119 321.4(290.7)  .009  .008   2.43   1.7   .011  .019  .020   - -
+CI SCSN  SCI2  San Clemente Island 2                   32.980 118.547 321.5(304.9)  .003  .003   1.05   1.0   .010  .006  .005   - -
+CE CGS   02501 Julian - Hwy 79 & Engineers Rd          32.992 116.586 321.9(292.8)  .012  .012   1.36   1.5   .028  .013  .003   - -
+NC NCSN  BBGB  Big Mountain                            36.578 121.040 322.3(296.6)  .005  .005    .85    .2   .008  .014  .004   - -
+AZ IGPP  CPE   Camp Elliot  Miramar  CA  USA           32.889 117.105 322.7(296.2)  .003  .003    .56    .6   .008  .004  .002   - -
+NC NCSN  PCC   Crazy Canyon                            36.090 121.164 323.6(301.2)  .012  .012    .92    .4   .044  .007  .002   - -
+AZ IGPP  SCI2  San Clemente Island  CA  USA            32.915 118.488 327.0(309.9)  .002  .002    .70    .8   .003  .004  .003   - -
+CI SCSN  VDJ   Highway 95 & 62 Vidal Junction          34.190 114.571 327.3(297.1)  .020  .020   3.10   1.5   .039  .040  .008   - -
+NN UNR   RYN   Ryan  Nevada w84 gps                    38.628 118.522 327.7(300.4)  .002  .002   1.47   1.5   .004  .004  .003   - -
+BK BDSN  HULI  Fort Hunter Liggett, CA                 36.021 121.236 329.5(307.5)  .002  .002    .60    .6   .002  .004  .003   - -
+CI SCSN  CYP   Cuyamaca Peak                           32.906 116.627 330.0(301.2)  .002  .002    .69   1.2   .006  .005  .002   - -
+AZ IGPP  MTRP  Mission Trails Regional Park  Santee  CA32.820 117.057 330.9(304.2)  .001  .001    .51    .6   .003  .002  .003   - -
+WR CDWR  SAQ   Aqueduct                                37.046 120.948 332.1(304.1)   - -   - -      -    .0   .013  .009  .004   .005
+PG PG&E  PBD   Pt Piedras Blancas                      35.709 121.271 332.2(312.6)  .001  .001    .36    .4   .002  .003  .001   - -
+CI SCSN  WWF   Wister Waterfowl                        33.279 115.579 332.8(301.0)  .009  .009   4.42   3.0   .013  .027  .023   - -
+CI SCSN  SDG   San Diego Mission Control               32.784 117.138 333.9(307.6)  .003  .003    .88    .7   .010  .009  .002   - -
+AZ IGPP  USGCB US Gypsum Company  site B (borehole)  CA33.030 116.085 334.3(303.5)  .018  .017   4.22   3.3   .047  .050  .028   - -
+CI SCSN  ERR   Kane Springs, San Felipe Wash           33.117 115.823 336.6(305.2)  .013  .013   3.62   3.2   .018  .016  .015   - -
+AZ IGPP  MONP2 Monument Peak TA Vault  Mt. Laguna  CA  32.892 116.422 337.1(307.5)  .003  .003   1.06   1.1   .005  .007  .002   - -
+CI SCSN  RXH   Rock Hill                               33.183 115.623 339.5(307.8)  .003  .003   1.74   2.4   .004  .008  .007   - -
+NP NSMP  5062  Salton Sea; Wildlife Refuge             33.177 115.616 340.4(308.7)  .006  .005   2.46   2.6   .007  .013  .013   - -
+CE CGS   03300 San Diego - 22-story Office Bldg        32.719 117.163 340.7(314.6)  .005  .005   1.74   1.2   .009  .015  .009   .018
+CE CGS   03631 San Diego - 24-story Govt Bldg          32.717 117.166 340.9(314.8)  .007  .007   2.22   1.3   .008  .015  .009   .044
+CE CGS   03145 San Diego - 8th & J St                  32.710 117.158 341.8(315.7)  .008  .008   1.71   1.2   .016  .014  .006   - -
+CI SCSN  SDR   San Diego Road Dept                     32.736 116.942 341.9(314.7)  .002  .002    .58    .8   .004  .002  .002   - -
+WR CDWR  SPR   Parks and Rec                           37.081 121.061 342.9(314.8)  .003  .003    .76    .8   .009  .007  .003   - -
+CI SCSN  Q0039 B Avenue, Coronado Ca 92118             32.687 117.176 344.1(318.1)  .008  .008   1.80   1.4   .019  .016  .011   - -
+NC NCSN  BJOB  Mount Johnson                           36.611 121.315 347.0(321.4)  .001  .001    .35    .3   .002  .001  .001   - -
+CI SCSN  CLI2  Calipatria 2                            33.121 115.580 347.5(315.8)  .002  .002   1.29   1.4   .002  .003  .005   - -
+CI SCSN  LYP   Lyon's Peak                             32.703 116.755 348.9(320.8)  .003  .003    .78   1.0   .003  .003  .002   - -
+CI SCSN  CKP   Chuckwalla Valley State Prison          33.555 114.890 349.3(317.4)  .008  .008   3.78   3.0   .013  .022  .016   - -
+CI SCSN  SLV   Salvation Pass                          33.239 115.304 351.1(319.1)  .003  .003   1.34   1.9   .004  .004  .004   - -
+NP NSMP  5274  Imperial Valley; Superstition Mtn Base  32.962 115.815 352.0(320.8)  .003  .003    .84    .8   .005  .006  .003   - -
+NP NSMP  0286  Imperial Valley; Superstition Mtn Peak  32.955 115.824 352.4(321.2)  .003  .003   1.00   1.5   .008  .005  .003   - -
+CI SCSN  BAR   Barrett                                 32.680 116.672 353.2(324.8)  .002  .002    .70    .9   .009  .003  .001   - -
+CI SCSN  CRR   Cary Ranch, Anza, Ca, Usa               32.887 115.969 353.2(322.4)  .008  .008   1.78   1.7   .015  .013  .004   - -
+BK BDSN  CMB   Columbia College                        38.035 120.387 353.4(322.8)  .002  .002    .82   1.1   .002  .002  .001   - -
+CI SCSN  SWS   Imperial,  Superstition Mountains       32.945 115.800 354.4(323.1)  .002  .002   1.15   1.7   .004  .004  .002   - -
+CI SCSN  PDM   Parker Dam                              34.303 114.142 355.0(325.8)  .002  .002    .74   1.1   .005  .003  .002   - -
+CI SCSN  WMD   Westmorland                             33.038 115.582 355.2(323.6)  .006  .006   3.98   3.5   .007  .019  .019   - -
+CI SCSN  OLP   Otay Lakes Park                         32.608 116.930 356.1(328.9)  .002  .002    .44    .6   .006  .002  .002   - -
+CI SCSN  Q0017 Grove Avenue, Imperial Beach            32.573 117.117 357.3(331.0)  .005  .005   3.03   2.2   .009  .012  .013   - -
+CI SCSN  SWP   Sweeney Pass                            32.792 116.097 358.1(327.7)  .004  .004   1.60   1.6   .006  .010  .008   - -
+BK BDSN  PACP  Pacheco Peak                            37.008 121.287 358.3(330.8)  .003  .003    .52    .6   .006  .004  .002   - -
+CI SCSN  DZA   Dulzura                                 32.607 116.775 359.0(331.1)  .002  .002    .70    .9   .003  .003  .002   - -
+CI SCSN  BLY   Blythe                                  33.750 114.524 359.8(328.6)  .003  .003    .85   1.3   .005  .006  .004   - -
+CI SCSN  CPO   Campo Elementary School                 32.643 116.485 361.7(332.7)  .003  .003    .83   1.0   .006  .003  .002   - -
+NP NSMP  1575  Hollister; City Hall Annex              36.851 121.403 362.1(335.4)  .006  .006   1.67   1.4   .007  .017  .010   - -
+NP NSMP  1865  Hollister BLM                           36.883 121.391 362.2(335.4)  .005  .005   1.65    .9   .006  .014  .017   - -
+NC NCSN  BSR   Salinas Radio Site                      36.667 121.520 366.4(340.7)  .001  .001    .34    .4   .002  .002  .002   - -
+NC NCSN  HSFB  St. Francis Retreat                     36.819 121.503 369.5(343.1)  .002  .002    .74    .7   .001  .002  .004   - -
+NC NCSN  HBH   Brookhollow Lane                        36.883 121.490 370.6(343.9)  .004  .004   1.34   1.1   .003  .005  .003   - -
+NP NSMP  MOD   Modesto Volunteer FS                    37.620 121.122 375.9(346.4)  .004  .004   1.95   1.6   .007  .009  .005   - -
+NC NCSN  BPRB  Ponciano Ridge                          36.407 121.731 378.8(354.6)  .001  .001    .31    .4   .002  .002  .001   - -
+NC NCSN  HTU   Tustin Road                             36.827 121.643 381.7(355.4)  .001  .001    .44    .4   .001  .002  .002   - -
+NP NSMP  5058  El Centro; Array 11, McCabe School      32.752 115.595 382.3(350.9)  .009  .009   3.38   2.9   .012  .018  .013   - -
+NC NCSN  BCC   Calera Canyon                           36.541 121.742 382.6(357.6)  .002  .002    .70    .5   .002  .004  .001   - -
+NC NCSN  H002  Rancho Rea Rd Aromas                    36.877 121.647 383.7(357.2)  .003  .003   1.16    .8   .004  .009  .006   - -
+BK BDSN  MTOS  Mt Oso, Westley, CA, USA                37.505 121.328 385.1(356.0)  .001  .001    .62    .7   .004  .004  .002   - -
+NC NCSN  HCBB  Chamberlain                             36.931 121.662 386.8(360.0)  .003  .002    .54    .5   .003  .009  .002   - -
+NC NCSN  HLP   Lions Peak                              37.041 121.632 388.3(361.1)  .002  .002    .39    .4   .003  .003  .001   - -
+NC NCSN  CADB  Anderson Reserv                         37.163 121.626 392.7(365.0)  .001  .001    .51    .6   .001  .003  .003   - -
+NC NCSN  CAO   Arnold Ranch                            37.349 121.535 393.5(365.1)  .001  .001    .42    .5   .001  .002  .001   - -
+NC NCSN  CCOB  Coe Ranch                               37.259 121.673 400.6(372.7)  .002  .002    .77    .6   .002  .005  .002   - -
+NC NCSN  JELB  Ellicott                                36.927 121.828 400.7(374.1)  .002  .002    .79    .8   .002  .005  .006   - -
+BK BDSN  MHC   Lick Observatory, Mt. Hamiliton, CA, USA37.342 121.643 401.8(373.6)  .001  .001    .49    .6   .002  .003  .001   - -
+NC NCSN  J058  Oak Tree Lane, Aptos, CA                36.998 121.827 403.1(376.2)  .002  .002    .77    .4   .003  .007  .003   - -
+BK BDSN  WELL  Weller Cave, Western Cave Conservancy, S38.438 120.724 406.1(375.4)  .001  .001    .86   1.1   .001  .002  .001   - -
+NC NCSN  CML   Mount Lewis                             37.478 121.653 409.2(380.5)  .001  .001    .54    .5   .002  .003  .002   - -
+NC NCSN  C059  Quail Canyon Rd San Jose                37.343 121.772 412.4(384.3)  .001  .001    .42    .4   .002  .004  .001   - -
+NC NCSN  J054  Chandler Ct, San Jose, CA               37.247 121.825 412.5(384.8)  .002  .002    .42    .3   .002  .006  .001   - -
+NC NCSN  CHR   Mt Hamilton Rd                          37.373 121.769 413.5(385.3)  .001  .001    .40    .6   .002  .003  .002   - -
+NN UNR   ZPR   Zephyr Cove  Lake Tahoe  Nevada         39.013 119.938 415.3(385.2)  .001  .001    .59    .7   .001  .001  .002   - -
+BK BDSN  SCCB  Santa Clara Co. Comm. Cntr.             37.287 121.864 417.5(389.6)  .001  .001    .36    .5   .002  .003  .001   - -
+NC NCSN  C041  El Campo Dr, San Jose, CA               37.376 121.826 418.2(390.1)  .002  .002    .73    .6   .002  .005  .003   - -
+WR CDWR  HLT   Holt School FF                          37.955 121.423 418.4(388.6)  .003  .002    .90    .9   .003  .007  .005   - -
+WR CDWR  CLFS  Clifton Court Forebay-South             37.827 121.560 420.9(391.3)  .006  .006   1.99   2.3   .007  .019  .008   - -
+NC NCSN  C046  N 16th St, San Jose, CA                 37.354 121.883 421.8(393.8)  .003  .003   1.15    .7   .004  .007  .008   - -
+NC NCSN  CMLP  Milpitas                                37.449 121.834 422.2(393.9)  .001  .001    .52    .6   .002  .002  .001   - -
+NN UNR   CF02  CF02                                    39.191 119.742 424.4(394.7)  .001  .001    .50    .5   .002  .001  .002   - -
+NC NCSN  JBR   Bear Creek Rd                           37.172 122.011 425.0(397.6)  .002  .002    .45    .6   .002  .003  .002   - -
+NC NCSN  J048  Black Rd, Los Gatos, CA                 37.194 122.019 426.4(399.0)  .001  .001    .38    .3   .002  .005  .001   - -
+NC NCSN  CBSB  Byron Hot Springs #2                    37.818 121.641 426.4(397.0)  .002  .002    .86    .9   .005  .006  .003   - -
+NP NSMP  1799  Campbell; Westmont High School          37.271 121.986 426.8(399.1)  .002  .002   1.09   1.1   .003  .003  .004   - -
+NC NCSN  J055  Milan Dr, San Jose, CA                  37.400 121.922 427.1(398.9)  .004  .004   1.34   1.1   .004  .008  .007   - -
+NP NSMP  1788  Milpitas; Fire Station No. 4            37.417 121.915 427.3(399.1)  .003  .003   1.52   1.3   .003  .006  .007   - -
+NP NSMP  KIR   King Island Resort                      38.055 121.458 427.3(397.3)  .006  .006   2.04   1.9   .012  .012  .006   - -
+NP NSMP  1803  Livermore; Fire Station No. 8           37.717 121.727 427.4(398.2)  .002  .002    .58    .7   .002  .007  .002   - -
+NC NCSN  CBP   Brushy Peak                             37.748 121.708 427.6(398.4)  .001  .001    .50    .7   .003  .003  .002   - -
+NC NCSN  C039  Semillon Dr, Fremont, CA                37.467 121.912 429.3(401.0)  .002  .002    .89    .5   .003  .005  .006   - -
+NC NCSN  CVL   Vallecito                               37.624 121.836 430.9(402.1)  .002  .002    .56    .8   .002  .007  .002   - -
+NC NCSN  C017  S. Grimmer Blvd., Fremont, CA           37.506 121.926 432.3(403.9)  .002  .002    .80    .7   .003  .006  .005   - -
+NP NSMP  1863  Pleasanton - Fire Station 1             37.667 121.857 434.8(405.9)  .002  .002    .92    .9   .002  .004  .005   - -
+NC NCSN  J065  Samedra St, Sunnyvale, CA               37.343 122.051 435.2(407.3)  .002  .002   1.11   1.0   .002  .004  .004   - -
+NC NCSN  C069  Rotal Creek Court, Pleasanton, CA       37.648 121.896 436.9(408.0)  .003  .003    .77    .5   .003  .006  .005   - -
+NC NCSN  JSJ   St. Joseph Seminary                     37.334 122.092 438.1(410.3)  .002  .002    .55    .6   .002  .003  .003   - -
+NC NCSN  CMOB  Morgan Territory                        37.810 121.803 438.3(409.0)  .002  .002    .45    .4   .004  .004  .002   - -
+NC NCSN  J006  Magdalena Av, Los Altos, CA             37.357 122.102 439.9(412.0)  .002  .002    .73    .6   .002  .004  .005   - -
+NC NCSN  C048  Posada Way, Fremont, CA                 37.575 121.992 440.8(412.3)  .001  .001    .39    .3   .001  .003  .002   - -
+NP NSMP  ELK   Elk Grove                               38.373 121.362 442.1(411.7)  .005  .005   3.89   4.0   .005  .007  .005   - -
+NN UNR   CTC   N. Tahoe City Carnelian Bay             39.208 120.126 442.2(412.1)  .001  .001    .63    .5   .002  .003  .001   - -
+NC NCSN  C002  Farnham Dr Newark CA                    37.558 122.035 443.4(415.0)  .002  .002    .71    .3   .002  .005  .004   - -
+NN UNR   MPK   Martis Peak  California w84gm           39.293 120.036 446.4(416.5)  .001  .001    .51    .4   .003  .003  .001   - -
+CE CGS   67266 Antioch - San Joaquin River S Geo. Array38.018 121.752 446.4(416.7)  .003  .002   1.13   1.4   .003  .008  .004   - -
+NC NCSN  C006  Lake Pillsbury Dr., Fremont, CA         37.592 122.058 446.9(418.4)  .002  .002    .48    .3   .002  .004  .002   - -
+WR CDWR  CKR   Circle K Ranch                          38.314 121.492 446.9(416.6)  .004  .003   2.63   3.1   .004  .007  .004   - -
+NP NSMP  SIA   Sherman Island                          38.050 121.737 447.2(417.5)  .004  .004   1.29   1.4   .007  .011  .006   - -
+NC NCSN  C045  Hawkins Dr, San Ramon, CA               37.750 121.962 447.3(418.3)  .002  .002    .76    .6   .003  .005  .004   - -
+NP NSMP  1853  CA: Palo Alto; Addison School           37.446 122.151 447.7(419.6)  .002  .002    .62    .5   .002  .004  .003   - -
+NC NCSN  JSFB  Stanford Telescope                      37.404 122.176 447.9(420.0)  .001  .001    .63    .5   .002  .003  .002   - -
+NC NCSN  C068  Mocine Ave, Hayward, CA                 37.645 122.074 450.7(422.1)  .001  .001    .27    .2   .001  .004  .001   - -
+BK BDSN  BDM   Black Diamond Mines Park, Antioch       37.954 121.866 451.1(421.6)  .001  .001    .50    .4   .001  .003  .002   - -
+NC NCSN  J033  Emilie Ave., Atherton, CA               37.453 122.196 451.7(423.6)  .001  .001    .43    .3   .001  .004  .003   - -
+NN UNR   SKYF  SKYF                                    39.483 119.834 456.9(427.4)  .001  .001    .67    .8   .002  .003  .001   - -
+NC NCSN  CSL   San Leandro Hills                       37.724 122.119 458.3(429.5)  .001  .001    .44    .4   .002  .004  .001   - -
+NC NCSN  NHM   Hamilton Ranch                          38.155 121.804 458.6(428.7)  .003  .003   1.25   1.3   .003  .008  .005   - -
+NC NCSN  J037  Columbia Circle, Redwood City, CA       37.536 122.238 458.7(430.5)  .002  .002    .67    .4   .003  .007  .002   - -
+NC NCSN  JBG   Bear Gulch Road                         37.343 122.340 458.9(431.3)  .001  .001    .47    .4   .002  .004  .002   - -
+NP NSMP  1836  San Leandro Firesta 11                  37.692 122.170 460.6(432.0)  .002  .002    .78    .6   .002  .004  .006   - -
+NP NSMP  1752  Woodside; Filoli Visitor Center         37.468 122.308 461.5(433.5)  .001  .001    .38    .4   .001  .004  .001   - -
+NN UNR   JVTV  UNR station  LMR basement pier          39.539 119.814 461.8(432.3)  .001  .001    .91   1.0   .001  .002  .003   - -
+NC NCSN  J062  Challenge Court, Foster City, CA        37.563 122.266 462.2(433.9)  .002  .002    .55    .2   .002  .004  .002   - -
+NC NCSN  J045  Forest Ave, Belmont, CA                 37.524 122.301 463.3(435.2)  .001  .001    .23    .2   .001  .001  .001   - -
+NN UNR   NOAA  NOAA                                    39.568 119.796 464.0(434.6)  .004  .004   2.72   3.4   .007  .009  .003   - -
+CE CGS   67508 Sacramento - State Capitol Bldg         38.577 121.493 465.5(435.0)  .006  .006   5.00   4.9   .007  .008  .007   .010
+NP NSMP  1691  Pleasant Hill; Fire Station No. 2       37.927 122.079 465.7(436.5)  .002  .002    .64    .6   .002  .006  .003   - -
+WR CDWR  SAC   Sacramento                              38.576 121.498 465.7(435.2)   - -   - -      -    .0   .012  .017  .017   .011
+CE CGS   67366 Sacramento - 16-story Govt Office Bldg  38.574 121.500 465.7(435.2)  .005  .005   5.29   5.2   .006  .008  .008   .012
+NC NCSN  CTA   Taylor                                  38.027 122.016 466.6(437.1)  .002  .002   1.06   1.0   .003  .005  .004   - -
+NN UNR   SAG5  Sage Hen site 5  Independence Lake  CA  39.426 120.312 471.3(441.1)  .008  .008   2.67   2.4   .012  .020  .005   - -
+NP NSMP  DIX   Maine Praire Water Dst                  38.377 121.842 475.5(445.4)  .003  .003   2.22   2.2   .003  .007  .005   - -
+NP NSMP  1769  Fairfield; Travis AFB                   38.255 121.957 476.0(446.1)  .002  .002   1.14   1.1   .003  .006  .003   - -
+NC NCSN  J032  Euclid Ave., San Bruno, CA              37.631 122.415 477.4(449.0)  .001  .001    .26    .2   .002  .004  .001   - -
+NC NCSN  CPI   Pinole Ridge                            37.989 122.216 479.6(450.4)  .001  .001    .58    .6   .001  .003  .003   - -
+NC NCSN  NLH   Lake Herman                             38.123 122.149 482.2(452.6)  .001  .001    .51    .6   .002  .003  .002   - -
+NC NCSN  C067  Fleetwood Dr, El Sobrante, CA           37.976 122.290 484.6(455.4)  .001  .001    .47    .4   .002  .003  .002   - -
+NP NSMP  1804  Daly City; Fire Station No. 3           37.679 122.484 485.1(456.7)  .002  .002    .44    .5   .002  .004  .003   - -
+NC NCSN  NMK   Mankas Corner                           38.281 122.083 486.7(456.9)  .001  .001    .88   1.1   .001  .002  .002   - -
+NC NCSN  J040  Beach St, San Francisco, CA             37.805 122.435 487.1(458.4)  .002  .002    .26    .2   .002  .005  .001   - -
+BK BDSN  RUSS  Russell Ranch Agricultural Sustainabilit38.545 121.867 488.5(458.2)  .003  .003   2.84   2.9   .001  .002  .002   - -
+NP NSMP  1678  San Francisco; Golden Gate Bridge       37.807 122.476 490.5(461.8)   - -   - -      -    .0   .007  .012  .004   .005
+NC NCSN  N016  Main St, Napa, CA                       38.299 122.285 502.6(472.9)  .001  .001    .55    .5   .001  .003  .002   - -
+NC NCSN  NHC   Huichica Creek                          38.217 122.358 503.2(473.7)  .002  .002    .79    .8   .002  .005  .005   - -
+NP NSMP  1765  Napa; Fire Station No. 3                38.330 122.318 507.0(477.2)  .001  .001    .70    .7   .002  .004  .004   - -
+BK BDSN  SFRE  Sierra Foothills Research and Extension 39.257 121.323 508.1(477.4)  .001  .001    .49    .7   .001  .001  .001   - -
+WR CDWR  BKW   Beckwourth Peak                         39.769 120.436 509.4(479.4)  .001  .001    .58    .8   .002  .002  .002   - -
+NC NCSN  NSM   Sonoma Mountain                         38.349 122.578 527.3(497.7)  .001  .001    .52    .5   .001  .003  .002   - -
+NP NSMP  1767  Santa Rosa; Fire Station No. 1          38.441 122.705 542.1(512.4)  .001  .001    .60    .5   .001  .003  .004   - -
+WR CDWR  HUF   Hough Mtn                               40.044 120.885 555.5(525.3)  .001  .001    .53    .8   .001  .002  .002   - -
+NC NCSN  LDH   Deep Hole                               40.512 121.582 631.6(601.2)  .001  .001    .87   1.0   .001  .002  .003   - -
+BK BDSN  HATC  Hat Creek Radio Astronomy Obs.          40.816 121.461 654.2(624.0)  .002  .002   2.00   1.7   .002  .003  .007   - -
+BK BDSN  TULE  Intermountain Research and Extension Cen41.965 121.467 765.3(735.7)  .002  .002   1.45   1.3   .001  .002  .005   - -
