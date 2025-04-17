@@ -1,0 +1,41 @@
+     Peak Ground Motion Data (Distance Order) for
+         Japan Shizuoka Offshore  Earthquake of 01 Aug 2011, 14:58:08 UTC, 6.2Mw
+                34.63N 138.44E, 10.0 km depth  Event Id: c0005760
+                   CESMD Engineering Strong Motion Data Center
+                   Table Last Updated: 2011-08-09 13:06:21
+Network  Statn                                                         Distance   PGAv1 PGAv2   PGV   PGD   ---- Sa (g) ----- Struct
+Id Name  Nmbr  Station Name                            N.Lat  E.Long  Epic Fault   (g)   (g)  (cm/s)  (cm)  .3sec  1sec  3sec Apk(g)
+JP KNET  SZO018Haibara                                 34.740 138.224  23.2( -- )  .135   - -      -      -    - -   - -   - -   - -
+JP KNET  SZO017Hamaoka                                 34.637 138.128  28.9( -- )  .084   - -      -      -    - -   - -   - -   - -
+JP KNET  SZO005Matsuzaki                               34.755 138.784  34.0( -- )  .200   - -      -      -    - -   - -   - -   - -
+JP KNET  SZO004MINAMIIZU                               34.647 138.819  34.5( -- )  .174   - -      -      -    - -   - -   - -   - -
+JP KIKNETSZOH39NISHIIZU-W                              34.795 138.776  35.3( -- )  .236   - -      -      -    - -   - -   - -   - -
+JP KIKNETSZOH41MINAMIIZU                               34.672 138.837  36.4( -- )  .080   - -      -      -    - -   - -   - -   - -
+JP KNET  SZO027NISHIIZU                                34.790 138.801  37.0( -- )  .159   - -      -      -    - -   - -   - -   - -
+JP KNET  SZO014Shizuoka                                34.965 138.374  37.1( -- )  .080   - -      -      -    - -   - -   - -   - -
+JP KIKNETSZOH36FUJEIDA                                 34.911 138.209  37.4( -- )  .212   - -      -      -    - -   - -   - -   - -
+JP KIKNETSZOH33SHIZUOKAMINAMI                          35.011 138.356  42.5( -- )  .141   - -      -      -    - -   - -   - -   - -
+JP KNET  SZO006Toi                                     34.911 138.794  44.4( -- )  .069   - -      -      -    - -   - -   - -   - -
+JP KNET  SZO013SHIMIZU                                 35.041 138.476  45.1( -- )  .112   - -      -      -    - -   - -   - -   - -
+JP KIKNETSZOH53KAKEGAWA3                               34.874 138.021  46.9( -- )  .058   - -      -      -    - -   - -   - -   - -
+JP KIKNETSZOH31KAWANE                                  34.937 138.080  47.2( -- )  .145   - -      -      -    - -   - -   - -   - -
+JP KIKNETSZOH40KAWASU                                  34.780 138.973  51.2( -- )  .084   - -      -      -    - -   - -   - -   - -
+JP KIKNETSZOH34SHIMIZU-N                               35.127 138.427  54.6( -- )  .092   - -      -      -    - -   - -   - -   - -
+JP KIKNETSZOH42SHUZENJI                                34.972 138.916  57.2( -- )  .129   - -      -      -    - -   - -   - -   - -
+JP KNET  SZO003HIGASHIIZU                              34.816 139.055  59.5( -- )  .285   - -      -      -    - -   - -   - -   - -
+JP KNET  SZO007SHUZENJI                                34.977 138.947  59.7( -- )  .111   - -      -      -    - -   - -   - -   - -
+JP KNET  SZO026HARUNO                                  34.982 137.898  63.0( -- )  .108   - -      -      -    - -   - -   - -   - -
+JP KIKNETSZOH37SHIBAKAWA                               35.200 138.569  63.7( -- )  .092   - -      -      -    - -   - -   - -   - -
+JP KNET  SZO008NUMADU                                  35.096 138.866  64.1( -- )  .055   - -      -      -    - -   - -   - -   - -
+JP KNET  SZO011FUJINOMIYA                              35.213 138.602  65.7( -- )  .116   - -      -      -    - -   - -   - -   - -
+JP KIKNETSZOH35ITOH-C                                  34.943 139.089  68.3( -- )  .057   - -      -      -    - -   - -   - -   - -
+JP KIKNETSZOH38KANNAMI                                 35.082 138.981  69.9( -- )  .102   - -      -      -    - -   - -   - -   - -
+JP KNET  SZO002Itoh                                    34.965 139.103  70.6( -- )  .090   - -      -      -    - -   - -   - -   - -
+JP KNET  YMN007Nambu                                   35.279 138.465  71.5( -- )  .051   - -      -      -    - -   - -   - -   - -
+JP KNET  TKY010NIIJIMA                                 34.378 139.257  80.0( -- )  .066   - -      -      -    - -   - -   - -   - -
+JP KNET  SZO001Atami                                   35.142 139.080  81.0( -- )  .075   - -      -      -    - -   - -   - -   - -
+JP KIKNETAICH17TOYONE                                  35.181 137.730  89.0( -- )  .051   - -      -      -    - -   - -   - -   - -
+JP KNET  TKY009HABUMINATO                              34.687 139.441  91.7( -- )  .051   - -      -      -    - -   - -   - -   - -
+JP KNET  YMN009Rokugoh                                 35.497 138.463  95.6( -- )  .052   - -      -      -    - -   - -   - -   - -
+JP KIKNETNGNH14HIRAYA                                  35.310 137.626 105.7( -- )  .069   - -      -      -    - -   - -   - -   - -
+JP KIKNETYMNH14TSURU-S                                 35.508 138.971 108.2( -- )  .061   - -      -      -    - -   - -   - -   - -
