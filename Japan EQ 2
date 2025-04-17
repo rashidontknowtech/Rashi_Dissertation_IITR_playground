@@ -1,0 +1,8 @@
+                 Peak Ground Motion Data (Distance Order) for
+         Anamizu Earthquake of 01 Jan 2024, 16:10:09 JST, 7.5MWW
+                37.4976N 137.2416E, 10.0 km depth  Event Id: 6000m0xl
+                   CESMD Engineering Strong Motion Data Center
+                   Table Last Updated: 2024-01-05 16:00:17
+Network  Statn                                                         Distance   PGAv1 PGAv2   PGV   PGD   ---- Sa (g) ----- Struct
+Id Name  Nmbr  Station Name                            N.Lat  E.Long  Epic Fault   (g)   (g)  (cm/s)  (cm)  .3sec  1sec  3sec Apk(g)
+IU GSN   MAJO  Matsushiro  Japan                       36.546 138.204 136.0( -- )  .007  .007   1.77   1.2   .000  .000  .000   - -
