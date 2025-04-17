@@ -1,0 +1,83 @@
+                 Peak Ground Motion Data (Distance Order) for
+         Japan Iwaki Offshore  Earthquake of 30 Jul 2011, 18:53:50 UTC, 6.3M
+                36.95N 141.14E, 36.6 km depth  Event Id: c00056nn
+                   CESMD Engineering Strong Motion Data Center
+                   Table Last Updated: 2011-08-09 13:32:22
+Network  Statn                                                         Distance   PGAv1 PGAv2   PGV   PGD   ---- Sa (g) ----- Struct
+Id Name  Nmbr  Station Name                            N.Lat  E.Long  Epic Fault   (g)   (g)  (cm/s)  (cm)  .3sec  1sec  3sec Apk(g)
+JP KIKNETFKSH14IWAKI-E                                 37.023 140.974  17.0( -- )  .184   - -      -      -    - -   - -   - -   - -
+JP KNET  FKS011IWAKI                                   37.091 140.904  26.4( -- )  .133   - -      -      -    - -   - -   - -   - -
+JP KNET  FKS012NAKOSO                                  36.907 140.793  31.0( -- )  .197   - -      -      -    - -   - -   - -   - -
+JP KNET  FKS010HIRONO                                  37.234 141.002  34.3( -- )  .269   - -      -      -    - -   - -   - -   - -
+JP KNET  IBR002TAKAHAGI                                36.706 140.707  46.7( -- )  .137   - -      -      -    - -   - -   - -   - -
+JP KNET  FKS031KAWAUCHI                                37.336 140.813  52.1( -- )  .319   - -      -      -    - -   - -   - -   - -
+JP KIKNETIBRH13TAKAHAGI                                36.796 140.575  52.9( -- )  .305   - -      -      -    - -   - -   - -   - -
+JP KNET  FKS013FURUDONO                                37.090 140.556  54.2( -- )  .147   - -      -      -    - -   - -   - -   - -
+JP KNET  FKS009ONO                                     37.278 140.635  58.0( -- )  .152   - -      -      -    - -   - -   - -   - -
+JP KIKNETFKSH12HIRATA                                  37.217 140.570  58.8( -- )  .370   - -      -      -    - -   - -   - -   - -
+JP KNET  IBR003HITACHI                                 36.592 140.645  58.9( -- )  .214   - -      -      -    - -   - -   - -   - -
+JP KIKNETIBRH14JYUUOH                                  36.692 140.548  59.7( -- )  .161   - -      -      -    - -   - -   - -   - -
+JP KNET  FKS014YAMATSURI                               36.868 140.430  63.7( -- )  .076   - -      -      -    - -   - -   - -   - -
+JP KNET  FKS015TANAGURA                                37.022 140.378  68.2( -- )  .063   - -      -      -    - -   - -   - -   - -
+JP KIKNETFKSH19MIYAKOJI                                37.470 140.723  68.9( -- )  .168   - -      -      -    - -   - -   - -   - -
+JP KNET  FKS006KATSURAO                                37.503 140.759  70.5( -- )  .381   - -      -      -    - -   - -   - -   - -
+JP KNET  IBR001DAIGO                                   36.776 140.357  72.1( -- )  .126   - -      -      -    - -   - -   - -   - -
+JP KIKNETIBRH12DAIGO                                   36.837 140.318  74.1( -- )  .136   - -      -      -    - -   - -   - -   - -
+JP KIKNETIBRH16YAMAGATA                                36.641 140.398  74.2( -- )  .239   - -      -      -    - -   - -   - -   - -
+JP KNET  FKS008FUNEHIKI                                37.436 140.567  74.4( -- )  .228   - -      -      -    - -   - -   - -   - -
+JP KIKNETFKSH11YABUKI                                  37.201 140.339  76.5( -- )  .117   - -      -      -    - -   - -   - -   - -
+JP KIKNETFKSH09KOORIYAMA                               37.353 140.426  77.8( -- )  .136   - -      -      -    - -   - -   - -   - -
+JP KNET  FKS017SUKAGAWA                                37.284 140.369  78.0( -- )  .135   - -      -      -    - -   - -   - -   - -
+JP KNET  FKS005HARAMACHI                               37.639 140.985  78.2( -- )  .091   - -      -      -    - -   - -   - -   - -
+JP KNET  IBR004OHMIYA                                  36.552 140.410  78.3( -- )  .168   - -      -      -    - -   - -   - -   - -
+JP KIKNETIBRH18HITACHINAKA                             36.360 140.623  79.6( -- )  .091   - -      -      -    - -   - -   - -   - -
+JP KIKNETFKSH18MIHARU                                  37.489 140.538  80.5( -- )  .372   - -      -      -    - -   - -   - -   - -
+JP KNET  IBR007NAKAMINATO                              36.352 140.595  81.8( -- )  .202   - -      -      -    - -   - -   - -   - -
+JP KNET  FKS018KOHRIYAMA                               37.396 140.362  85.2( -- )  .179   - -      -      -    - -   - -   - -   - -
+JP KIKNETIBRH15GOZENYAMA                               36.557 140.301  86.3( -- )  .156   - -      -      -    - -   - -   - -   - -
+JP KNET  FKS016SHIRAKAWA                               37.123 140.191  86.5( -- )  .234   - -      -      -    - -   - -   - -   - -
+JP KNET  IBR006MITO                                    36.369 140.453  88.5( -- )  .123   - -      -      -    - -   - -   - -   - -
+JP KIKNETTCGH13BATOU                                   36.734 140.178  88.8( -- )  .101   - -      -      -    - -   - -   - -   - -
+JP KNET  FKS004IITATE                                  37.680 140.735  89.1( -- )  .190   - -      -      -    - -   - -   - -   - -
+JP KIKNETFKSH08NAGANUMA                                37.282 140.214  90.2( -- )  .077   - -      -      -    - -   - -   - -   - -
+JP KNET  TCG006OGAWA                                   36.764 140.130  92.1( -- )  .059   - -      -      -    - -   - -   - -   - -
+JP KIKNETFKSH17KAWAMATA                                37.664 140.597  93.1( -- )  .094   - -      -      -    - -   - -   - -   - -
+JP KNET  TCG001KUROISO                                 36.942 140.083  94.0( -- )  .058   - -      -      -    - -   - -   - -   - -
+JP KNET  FKS019NIHOMMATSU                              37.603 140.437  95.9( -- )  .110   - -      -      -    - -   - -   - -   - -
+JP KIKNETFKSH10NISHIGOU                                37.162 140.093  96.0( -- )  .196   - -      -      -    - -   - -   - -   - -
+JP KNET  FKS001SOHMA                                   37.795 140.920  96.3( -- )  .072   - -      -      -    - -   - -   - -   - -
+JP KNET  TCG014Motegi - TCG014                         36.545 140.174  96.9( -- )  .167   - -      -      -    - -   - -   - -   - -
+JP KIKNETTCGH10OOTAWARA                                36.858 140.023  99.8( -- )  .132   - -      -      -    - -   - -   - -   - -
+JP KNET  IBR005KASAMA                                  36.385 140.237 101.7( -- )  .146   - -      -      -    - -   - -   - -   - -
+JP KNET  FKS024NAKANO                                  37.396 140.133 102.3( -- )  .081   - -      -      -    - -   - -   - -   - -
+JP KIKNETTCGH16HAGA                                    36.548 140.075 104.7( -- )  .106   - -      -      -    - -   - -   - -   - -
+JP KNET  IBR013HOKOTA                                  36.159 140.489 104.8( -- )  .184   - -      -      -    - -   - -   - -   - -
+JP KIKNETTCGH12UJIIE                                   36.696 139.984 106.6( -- )  .079   - -      -      -    - -   - -   - -   - -
+JP KNET  FKS003FUKUSHIMA                               37.761 140.480 107.7( -- )  .065   - -      -      -    - -   - -   - -   - -
+JP KNET  TCG005YAITA                                   36.806 139.926 109.2( -- )  .050   - -      -      -    - -   - -   - -   - -
+JP KIKNETIBRH11IWASE                                   36.370 140.140 109.7( -- )  .186   - -      -      -    - -   - -   - -   - -
+JP KNET  FKS002YANAGAWA                                37.845 140.601 110.6( -- )  .083   - -      -      -    - -   - -   - -   - -
+JP KIKNETMYGH10YAMAMOTO                                37.941 140.892 112.7( -- )  .132   - -      -      -    - -   - -   - -   - -
+JP KNET  FKS020INAWASHIRO                              37.547 140.108 113.2( -- )  .067   - -      -      -    - -   - -   - -   - -
+JP KNET  IBR012ISHIOKA                                 36.190 140.287 113.2( -- )  .081   - -      -      -    - -   - -   - -   - -
+JP KNET  TCG013MOOKA                                   36.437 140.023 114.5( -- )  .068   - -      -      -    - -   - -   - -   - -
+JP KNET  IBR018KASHIMA                                 35.977 140.632 116.6( -- )  .083   - -      -      -    - -   - -   - -   - -
+JP KNET  MYG017KAKUDA                                  37.976 140.782 118.7( -- )  .072   - -      -      -    - -   - -   - -   - -
+JP KIKNETIBRH17KASUMIGAURA                             36.083 140.317 120.7( -- )  .105   - -      -      -    - -   - -   - -   - -
+JP KNET  FKS023AIDUWAKAMATSU                           37.477 139.929 122.5( -- )  .068   - -      -      -    - -   - -   - -   - -
+JP KNET  IBR008SHIMODATE                               36.306 139.983 125.3( -- )  .060   - -      -      -    - -   - -   - -   - -
+JP KNET  IBR014TSUCHIURA                               36.073 140.195 128.5( -- )  .078   - -      -      -    - -   - -   - -   - -
+JP KNET  TCG009IMAICHI                                 36.726 139.716 129.2( -- )  .121   - -      -      -    - -   - -   - -   - -
+JP KNET  TCG008KANUMA                                  36.560 139.768 129.6( -- )  .051   - -      -      -    - -   - -   - -   - -
+JP KNET  IBR011TSUKUBA                                 36.125 140.090 130.7( -- )  .058   - -      -      -    - -   - -   - -   - -
+JP KNET  MYG015IWANUMA                                 38.105 140.870 130.9( -- )  .093   - -      -      -    - -   - -   - -   - -
+JP KNET  IBR017EDOSAKI                                 35.954 140.319 132.2( -- )  .091   - -      -      -    - -   - -   - -   - -
+JP KNET  IBR010SHIMOTSUMA                              36.184 139.965 134.8( -- )  .050   - -      -      -    - -   - -   - -   - -
+JP KIKNETIBRH10ISHIGE                                  36.108 139.992 138.4( -- )  .050   - -      -      -    - -   - -   - -   - -
+JP KIKNETTCGH14AWANO                                   36.551 139.615 142.9( -- )  .059   - -      -      -    - -   - -   - -   - -
+JP KNET  IBR016TORIDE                                  35.911 140.049 150.7( -- )  .059   - -      -      -    - -   - -   - -   - -
+JP KNET  MYG012Shiogama - MYG012                       38.318 141.019 152.7( -- )  .088   - -      -      -    - -   - -   - -   - -
+JP KNET  CHB001NODA                                    35.959 139.873 157.6( -- )  .055   - -      -      -    - -   - -   - -   - -
+JP KNET  CHB007SAKURA                                  35.723 140.227 158.4( -- )  .068   - -      -      -    - -   - -   - -   - -
+JP KNET  CHB003SHIROI                                  35.794 140.056 160.4( -- )  .080   - -      -      -    - -   - -   - -   - -
+JP KIKNETSITH06KAWAMOTO                                36.110 139.293 189.4( -- )  .052   - -      -      -    - -   - -   - -   - -
